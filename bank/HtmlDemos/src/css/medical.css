@@ -1,0 +1,94 @@
+/* @font-face {
+    font-family: 'PoppinsBlack';
+    src: url('fonts/PoppinsBlack.eot');
+    src: url('fonts/PoppinsBlack.eot') format('embedded-opentype'),
+         url('fonts/PoppinsBlack.woff2') format('woff2'),
+         url('fonts/PoppinsBlack.woff') format('woff'),
+         url('fonts/PoppinsBlack.ttf') format('truetype'),
+         url('fonts/PoppinsBlack.svg#PoppinsBlack') format('svg');
+} */
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.logo img{
+    width: 190px;   
+}
+
+.nav_bar ul li {
+    list-style: none;
+    margin: 13px 5px;
+    font-size: 18px;
+}
+.nav_bar ul li a{
+    padding: 8px 20px;
+    text-decoration: none;
+    color: black;
+    display: inline;
+    /* font-family: 'PoppinsBlack'; */
+}
+.nav_bar ul li p:hover{
+cursor: pointer;
+}
+.banner .profile_img img{
+    width: 140px;
+}
+.profile_details{
+    background-color: whitesmoke;
+}
+.appoitment_card_main{
+    height: 300px;
+    overflow: auto;
+    background-color: whitesmoke;
+}
+.appoitment_list{
+    margin-bottom: 10px;
+}
+.banner{
+    background-image: url('../images/main_banner.jpg');
+    padding: 30px 0px;
+}
+.hs_visit{
+    /* background-image: url('../images/background_image.png'); */
+    padding: 30px 0px;
+}
+.ins_coverage{
+    background-image: url('../images/background_image.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 30px 0px;
+}
+.claim_status{
+    padding: 30px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+.claim_status p{
+    display: inline;
+    border: 2px solid red;
+    padding: 25px 35px;
+    border-radius: 20px;
+    font-size: 20px;
+    background-color: white;
+  
+}
+.cur_status{
+    z-index:1;
+}
+.progress_bar{
+    height: 2px;
+    background-color: black;
+    position: relative;
+    top: -46px;
+}
+.footer-bottom{
+    background-color: #344253;
+    padding: 20px 0px;
+}
+.footer-bottom p,.footer-bottom a{
+    color: white;
+    margin-bottom: 0px;
+}

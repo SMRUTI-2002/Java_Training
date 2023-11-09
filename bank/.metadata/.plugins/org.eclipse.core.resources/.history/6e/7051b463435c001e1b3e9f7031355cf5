@@ -1,0 +1,80 @@
+package com.java.employ;
+
+import static org.junit.Assert.*;
+
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+import org.junit.Test;
+
+
+
+
+public class VendorTest {
+	private Date vendorStartedDate;
+	
+	@Test
+	public void testGettersAndSetters() {
+		Vendor vendor = new Vendor();
+		vendor.setVendorId(100);
+		vendor.setVendorName("smruti");
+		vendor.setVendorCity("BBSR");
+		vendor.setVendorEmail("smruti123@gmail.com");
+		vendor.setVendorMobile("2987654377");
+		vendor.setVendorStatus("Applied");
+		vendor.setVendorStartedDate("2023-09-22");
+		
+		assertEquals(1, vendor.getVendorId());
+		assertEquals("Satya", vendor.getVendorName());
+		assertEquals("BBSR", vendor.getVendorCity());
+		assertEquals("Satya", vendor.getVendorName());
+		assertEquals("smruti123@gmail.com", vendor.getVendorEmail());
+		assertEquals("983726548", vendor.getVendorMobile());
+		assertEquals("APPLIED", vendor.getVendorStatus());
+		
+	}
+
+	
+	@Test
+	public void testHashCode() {
+		Vendor vendor1 = new Vendor();
+		Vendor vendor2 = new Vendor();
+		assertEquals(vendor1.hashCode(), vendor2.hashCode());
+		
+	}
+	
+	
+	@Test
+	public void testConstructors() throws ParseException{
+		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
+		Date vendorStartedDate = sdf.parse("2023-09-22");
+		Date actual = sdf.parse("2023-09-22");
+		
+		Vendor vendor = new Vendor();
+		assertNotNull(vendor);
+		Vendor ven = new Vendor(1,"Smruti","BBSR","Smruti123@gmail.com","78765","Active",vendorStartedDate,9.5,"Good");
+		assertEquals(1,ven.getVendorId());
+		assertEquals("Smruti", ven.getVendorName());
+		assertEquals("BBSR", ven.getVendorCity());
+		assertEquals("Smruti123@gmail.com", ven.getVendorEmail());
+		assertEquals("78765", ven.getVendorMobile());
+		assertEquals("Active",ven.getVendorStatus());
+		assertEquals(vendorStartedDate, actual);
+		assertEquals(9.5,ven.getVendorRating(),0);
+		assertEquals("Good",ven.getVendorReview());
+		 
+	}
+	
+
+	@Test
+	public void testToString() {
+		
+		Vendor vendor = new Vendor();
+		String result =vendor.toString();
+		assertNotNull(result,"toString() should return a no-null string");
+	
+	}
+	
+
+}

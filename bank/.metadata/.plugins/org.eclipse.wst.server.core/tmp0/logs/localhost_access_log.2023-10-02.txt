@@ -1,0 +1,14 @@
+127.0.0.1 - - [02/Oct/2023:19:37:44 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [02/Oct/2023:19:37:46 +0530] "GET /Complaint/showComplaints.jsp HTTP/1.1" 500 3374
+0:0:0:0:0:0:0:1 - - [02/Oct/2023:19:37:46 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [02/Oct/2023:19:38:48 +0530] "GET /Complaint/showComplaint.jsp HTTP/1.1" 500 3370
+0:0:0:0:0:0:0:1 - - [02/Oct/2023:19:55:58 +0530] "GET /Complaint/showComplaint.jsp HTTP/1.1" 500 3370
+0:0:0:0:0:0:0:1 - - [02/Oct/2023:19:57:07 +0530] "GET /HotelCustomer/CustomerShow.jsp HTTP/1.1" 200 1467
+0:0:0:0:0:0:0:1 - - [02/Oct/2023:19:57:07 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [02/Oct/2023:19:57:44 +0530] "GET /HotelCustomer/CustomerShow.jsp HTTP/1.1" 200 1493
+0:0:0:0:0:0:0:1 - - [02/Oct/2023:19:58:32 +0530] "GET /HotelCustomer/UpdateCustomer.jsp HTTP/1.1" 500 3048
+127.0.0.1 - - [02/Oct/2023:21:43:26 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [02/Oct/2023:21:43:27 +0530] "GET /HotelCustomer/UpdateCustomer.jsp HTTP/1.1" 500 10521
+0:0:0:0:0:0:0:1 - - [02/Oct/2023:21:43:27 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+127.0.0.1 - - [02/Oct/2023:21:51:45 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [02/Oct/2023:21:51:46 +0530] "GET /HotelCustomer/CustomerShow.jsp HTTP/1.1" 200 1493

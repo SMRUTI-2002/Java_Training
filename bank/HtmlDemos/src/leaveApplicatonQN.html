@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+	function validate(){
+
+            var startDate = new Date(formData.start_date.value);
+
+            var endDate = new Date(formData.end_date.value);
+
+            var timeDiff = endDate - startDate;
+
+            var daysDiff = Math.ceil(timeDiff / (1000 * 3600 * 24));
+
+            document.getElementById("nod").innerHTML ="";
+
+            let dateObj = new Date();
+
+            let today = dateObj.getDate();
+
+            let yesterday = dateObj.getDate() - 1;
+
+            if(startDate.getDate()<today){
+
+                document.getElementById("error").innerHTML = "Start Date Must Not Be Past Date";
+
+            }
+
+            else if(endDate.getDate()<today){
+
+                document.getElementById("error").innerHTML = "End Date Must Not Be Past Date";
+
+            }
+
+            else if(daysDiff<0){
+
+                document.getElementById("error").innerHTML = "End Date Must Be After Start Date";
+
+            }
+
+            else{
+
+                calculateLeaveInfo();
+
+            }
+
+           
+
+        }
+</script>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+    <div class="table">
+        <table border="2">
+            <thead>
+                <th colspan="2">Leave application From</th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Leave ID</td>
+                    <td>
+                        <select name="" id="">
+                            <option value="">Leave id</option>
+                            <option value="">1</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Manager Name</td>
+                    <td>
+                        <select name="" id="">
+                            <option value="">Choose your manager</option>
+                            <option value="">1</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Leave start date</td>
+                    <td>
+                        <input type="date" name="" id="">
+                    </td>
+                </tr>
+                <tr>
+                    <td>Leave end date</td>
+                    <td>
+                        <input type="date" name="" id="">
+                    </td>
+                </tr>
+                <tr>
+                    <td>No of Days</td>
+                    <td>
+                        <input type="text" name="" id="">
+                    </td>
+                </tr>
+                <tr>
+                    <td>Leave type</td>
+                    <td>
+                        <select name="" id="">
+                            <option value="">El</option>
+                            <option value="">1</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Leave Status</td>
+                    <td>
+                        <select name="" id="">
+                            <option value="">Pending</option>
+                            <option value="">1</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Leave Applied on</td>
+                    <td>
+                        <input type="text" name="" id="">
+                    </td>
+                </tr>
+                <tr>
+                    <td>Manager Comments</td>
+                    <td>
+                        <input type="text" name="" id="">
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" style="text-align: center;">
+                        <button type="submit">Submit</button>
+                        <button >Reset</button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    
+</body>
+</html>
+</body>
+</html>

@@ -1,0 +1,8 @@
+127.0.0.1 - - [16/Sep/2023:11:15:36 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [16/Sep/2023:11:15:37 +0530] "GET /DemoWeb/EmployInsert.html HTTP/1.1" 200 958
+0:0:0:0:0:0:0:1 - - [16/Sep/2023:11:15:37 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [16/Sep/2023:11:16:13 +0530] "GET /DemoWeb/EmployInsert.html?empName=+Prangya&gender=FEMALE&dept=JAVA&desig=TeamLead&basic=98765 HTTP/1.1" 200 958
+0:0:0:0:0:0:0:1 - - [16/Sep/2023:11:16:33 +0530] "GET /DemoWeb/EmployShow.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [16/Sep/2023:11:16:36 +0530] "GET /DemoWeb/EmployShowServlet HTTP/1.1" 200 1184
+0:0:0:0:0:0:0:1 - - [16/Sep/2023:11:17:12 +0530] "GET /DemoWeb/EmploySearch.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [16/Sep/2023:11:17:12 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
