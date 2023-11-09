@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\smrutip\Downloads\Day47_3_New\Day47_3\EjbCmpEntityClient"/>
+			<item value="C:\Users\smrutip\Downloads\Day47_3_New\Day47_3\EjbCmpEntity"/>
+			<item value="C:\Users\smrutip\Downloads\Day47_1\Day47_1\EjbStateFullClient"/>
+			<item value="C:\Users\smrutip\Downloads\Day47_1\Day47_1\EjbStateFull"/>
+			<item value="C:\Users\smrutip\Downloads\Day47_2\Day47_2\EjbEntityExample"/>
+			<item value="C:\Users\smrutip\Downloads\Day47_2\Day47_2\EjbEntityClient"/>
+			<item value="D:\Infinite JAVA\EJB\EjbStateFullClient"/>
+			<item value="D:\Infinite JAVA\EJB\EjbStateFull"/>
+			<item value="D:\Infinite JAVA\EJB\EjbEntityExample"/>
+			<item value="D:\Infinite JAVA\EJB\EjbEntityClient"/>
+			<item value="C:\Users\smrutip\Downloads\Day46_Statefull\EjbCalculation"/>
+			<item value="D:\Infinite JAVA\EJB\EjbCalculation1"/>
+			<item value="D:\Infinite JAVA\EJB\FailClient"/>
+			<item value="C:\Users\smrutip\Downloads\HMS.v1\HMSServer.v1"/>
+			<item value="C:\Users\smrutip\Downloads\HMS.v1\HMSClient.v1"/>
+			<item value="C:\Users\smrutip\Downloads\Day40_4\Day40_4\EjbEmployServer"/>
+			<item value="C:\Users\smrutip\Downloads\Day40_4\Day40_4\EjbEmployClient"/>
+			<item value="C:\Users\smrutip\Downloads\Day40_3\Day40_3"/>
+			<item value="C:\Users\smrutip\Downloads\Day40_3\Day40_3\EjbEmployServer"/>
+			<item value="C:\Users\smrutip\Downloads\Day40_3\Day40_3\EjbEmployClient"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="534"/>
+		<item key="DIALOG_Y_ORIGIN" value="209"/>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jst.ejb.ui.project.facet.EjbProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jst.ejb.ui"/>
+		</list>
+	</section>
+</section>

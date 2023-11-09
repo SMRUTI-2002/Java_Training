@@ -1,0 +1,16 @@
+INDEX VERSION 1.4+D:\Infinite JAVA\EJB\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1650387034.index
+3703646814.index
+880198768.index
+1459437959.index
+66234429.index
+3810279226.index
+4100402041.index
+679864719.index
+3948377248.index
+2946474590.index
+2792904196.index
+3812317863.index
+621445829.index
+3476646457.index
+440494205.index
