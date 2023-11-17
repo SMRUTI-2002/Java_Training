@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ExceptionHandlingEx1.java&apos; to &apos;Day3/src/infinite&apos;&#x0D;&#x0A;- Original project: &apos;Day2&apos;&#x0D;&#x0A;- Destination element: &apos;Day3/src/infinite&apos;&#x0D;&#x0A;- Original element: &apos;Infinite.ExceptionHandlingEx1.java&apos;" description="Copy compilation unit" destination="=Day3/src&lt;infinite" element1="/src&lt;Infinite{ExceptionHandlingEx1.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1697367506720" units="1" version="1.0"/>
+</session>

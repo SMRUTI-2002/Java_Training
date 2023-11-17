@@ -1,0 +1,491 @@
+2023-10-11 22:44:49,164 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-12 09:48:53,473 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-12 12:58:55,873 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-13 18:53:41,547 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-14 10:09:40,357 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-10-14 13:12:28,259 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-14 19:08:04,516 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-15 15:44:48,933 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-10-15 20:54:39,588 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-16 09:18:32,856 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-16 17:41:19,939 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-16 18:10:11,493 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-16 19:45:09,684 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-17 13:38:52,083 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-17 22:31:25,445 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-18 09:20:06,477 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-18 16:37:18,129 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-19 09:22:54,608 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-10-21 10:49:54,908 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-24 09:37:37,351 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-29 18:38:40,422 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-30 07:38:55,018 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-30 19:36:02,262 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-30 22:14:24,477 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-30 23:01:06,748 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-30 23:02:13,786 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [610])
+2023-10-30 23:02:13,804 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2023-10-30 23:02:13,804 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\aether-connector-okhttp-0.17.8.jar
+2023-10-30 23:02:13,804 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\commons-lang3-3.8.1.jar
+2023-10-30 23:02:13,804 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\guice-4.2.2-no_aop.jar
+2023-10-30 23:02:13,804 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\jansi-2.4.0.jar
+2023-10-30 23:02:13,804 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-artifact-3.8.7.jar
+2023-10-30 23:02:13,805 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-builder-support-3.8.7.jar
+2023-10-30 23:02:13,805 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-compat-3.8.7.jar
+2023-10-30 23:02:13,805 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-core-3.8.7.jar
+2023-10-30 23:02:13,805 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-embedder-3.8.7.jar
+2023-10-30 23:02:13,805 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-3.8.7.jar
+2023-10-30 23:02:13,805 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-builder-3.8.7.jar
+2023-10-30 23:02:13,806 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-plugin-api-3.8.7.jar
+2023-10-30 23:02:13,806 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-repository-metadata-3.8.7.jar
+2023-10-30 23:02:13,806 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-api-1.6.3.jar
+2023-10-30 23:02:13,806 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-10-30 23:02:13,806 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-impl-1.6.3.jar
+2023-10-30 23:02:13,806 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-provider-3.8.7.jar
+2023-10-30 23:02:13,806 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-spi-1.6.3.jar
+2023-10-30 23:02:13,806 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-10-30 23:02:13,806 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-util-1.6.3.jar
+2023-10-30 23:02:13,806 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-3.8.7.jar
+2023-10-30 23:02:13,806 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-builder-3.8.7.jar
+2023-10-30 23:02:13,806 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-shared-utils-3.3.4.jar
+2023-10-30 23:02:13,807 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okhttp-3.14.1.jar
+2023-10-30 23:02:13,807 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okio-1.17.3.jar
+2023-10-30 23:02:13,807 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-10-30 23:02:13,807 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-10-30 23:02:13,807 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-build-api-0.0.7.jar
+2023-10-30 23:02:13,807 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-cipher-2.0.jar
+2023-10-30 23:02:13,807 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar
+2023-10-30 23:02:13,807 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-component-annotations-2.1.0.jar
+2023-10-30 23:02:13,807 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-interpolation-1.26.jar
+2023-10-30 23:02:13,808 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-sec-dispatcher-2.0.jar
+2023-10-30 23:02:13,808 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-utils-3.3.1.jar
+2023-10-30 23:02:13,808 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-file-3.5.3.jar
+2023-10-30 23:02:13,808 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-provider-api-3.5.3.jar
+2023-10-30 23:02:13,809 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_32.1.2.jre [1332])
+2023-10-30 23:02:13,810 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\com.google.guava_32.1.2.jre.jar
+2023-10-30 23:02:13,810 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [924])
+2023-10-30 23:02:13,811 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\slf4j.api_1.7.36.jar
+2023-10-30 23:02:13,811 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [35])
+2023-10-30 23:02:13,811 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-10-30 23:02:13,811 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [33])
+2023-10-30 23:02:13,812 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\javax.annotation_1.3.5.v20221203-1659.jar
+2023-10-30 23:02:13,812 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [67])
+2023-10-30 23:02:13,813 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2023-10-30 23:02:13,813 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [13])
+2023-10-30 23:02:13,814 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\com.google.guava.failureaccess_1.0.1.jar
+2023-10-30 23:02:13,818 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\smrutip\AppData\Local\Temp\m2e-archetypeGenerator2485978990784470347":
+2023-10-30 23:02:13,822 [Worker-21: Launching mavenrun-643d1314-16bd-4474-9243-e68c082b6b43] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.glassfish.jersey.archetypes -DarchetypeArtifactId=jersey-quickstart-webapp -DarchetypeVersion=3.1.3 -DgroupId=Infinite -DartifactId=SimpleCalcJsfHib -Dversion=0.0.1-SNAPSHOT -Dpackage=com.java.infinite -DoutputDirectory="D:\InfinitePractice Pgm" -Dstyle.color=always -U archetype:generate
+2023-10-30 23:04:09,869 [Worker-1: Creating jersey-quickstart-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\InfinitePractice Pgm\SimpleCalcJsfHib\pom.xml
+2023-10-30 23:04:12,723 [Worker-1: Creating jersey-quickstart-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Infinite:SimpleCalcJsfHib:0.0.1-SNAPSHOT @ D:\InfinitePractice Pgm\SimpleCalcJsfHib\pom.xml.
+2023-10-30 23:04:15,434 [Worker-1: Creating jersey-quickstart-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SimpleCalcJsfHib/src/main/java
+2023-10-30 23:04:15,434 [Worker-1: Creating jersey-quickstart-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SimpleCalcJsfHib/src/main/resources
+2023-10-30 23:04:15,446 [Worker-1: Creating jersey-quickstart-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SimpleCalcJsfHib/src/test/java
+2023-10-30 23:04:16,940 [Worker-1: Creating jersey-quickstart-webapp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-30 23:04:16,945 [Worker-1: Creating jersey-quickstart-webapp] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-30 23:04:16,950 [Worker-1: Creating jersey-quickstart-webapp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-30 23:04:16,951 [Worker-1: Creating jersey-quickstart-webapp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalcJsfHib\src\test\resources
+2023-10-30 23:04:18,228 [Worker-1: Creating jersey-quickstart-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2023-10-30 23:04:19,617 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-30 23:04:19,619 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-30 23:04:19,621 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-30 23:04:19,622 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalcJsfHib\src\test\resources
+2023-10-30 23:10:40,833 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-30 23:10:42,249 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-30 23:10:42,250 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-30 23:10:42,250 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalcJsfHib\src\test\resources
+2023-10-30 23:12:56,410 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-30 23:12:56,410 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-30 23:12:56,412 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-30 23:12:56,413 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalcJsfHib\src\test\resources
+2023-10-30 23:14:01,577 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-30 23:14:01,578 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-30 23:14:01,581 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-30 23:14:01,581 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalcJsfHib\src\test\resources
+2023-10-30 23:14:20,794 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-30 23:14:20,794 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-30 23:14:20,797 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-30 23:14:20,797 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalcJsfHib\src\test\resources
+2023-10-30 23:14:23,846 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-30 23:14:23,847 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-30 23:14:23,849 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-30 23:14:23,850 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalcJsfHib\src\test\resources
+2023-10-30 23:15:35,574 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-30 23:15:35,574 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-30 23:15:35,577 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-30 23:15:35,578 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalcJsfHib\src\test\resources
+2023-10-31 06:58:52,776 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-31 07:07:26,285 [Worker-26: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Infinite:SimpleCalcJsfHib:0.0.1-SNAPSHOT @ D:\InfinitePractice Pgm\SimpleCalcJsfHib\pom.xml.
+2023-10-31 07:07:26,548 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:07:26,551 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 07:07:26,553 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:07:26,553 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalcJsfHib\src\test\resources
+2023-10-31 07:07:26,556 [Worker-26: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SimpleCalcJsfHib
+2023-10-31 07:07:26,556 [Worker-26: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SimpleCalcJsfHib
+2023-10-31 07:08:36,616 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:08:36,626 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 07:08:36,628 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:08:36,628 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalcJsfHib\src\test\resources
+2023-10-31 07:09:09,577 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:09:09,577 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 07:09:09,579 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:09:09,579 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalcJsfHib\src\test\resources
+2023-10-31 07:09:21,829 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:09:21,829 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 07:09:21,833 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:09:21,833 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalcJsfHib\src\test\resources
+2023-10-31 07:09:48,605 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:09:48,606 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 07:09:48,607 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:09:48,607 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalcJsfHib\src\test\resources
+2023-10-31 07:12:16,805 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:12:16,805 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 07:12:16,807 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:12:16,807 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalcJsfHib\src\test\resources
+2023-10-31 07:13:43,202 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:13:43,202 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 07:13:43,204 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:13:43,204 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalcJsfHib\src\test\resources
+2023-10-31 07:13:48,947 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:13:48,947 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 07:13:48,949 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:13:48,949 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalcJsfHib\src\test\resources
+2023-10-31 07:13:51,489 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:13:51,489 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 07:13:51,489 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:13:51,489 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalcJsfHib\src\test\resources
+2023-10-31 07:14:06,831 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:14:06,831 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 07:14:06,833 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:14:06,833 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalcJsfHib\src\test\resources
+2023-10-31 07:15:36,259 [Worker-43: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Infinite:SimpleCalcJsfHib:0.0.1-SNAPSHOT @ D:\InfinitePractice Pgm\SimpleCalcJsfHib\pom.xml.
+2023-10-31 07:15:36,424 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:15:36,424 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 07:15:36,427 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:15:36,427 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalcJsfHib\src\test\resources
+2023-10-31 07:15:36,427 [Worker-43: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SimpleCalcJsfHib
+2023-10-31 07:15:36,427 [Worker-43: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SimpleCalcJsfHib
+2023-10-31 07:16:08,881 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:16:08,881 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 07:16:08,882 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:16:08,882 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalcJsfHib\src\test\resources
+2023-10-31 07:16:24,163 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:16:24,164 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 07:16:24,167 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:16:24,167 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalcJsfHib\src\test\resources
+2023-10-31 07:17:11,124 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:17:11,124 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 07:17:11,126 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:17:11,126 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalcJsfHib\src\test\resources
+2023-10-31 07:18:42,971 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:18:42,971 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 07:18:42,973 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:18:42,973 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalcJsfHib\src\test\resources
+2023-10-31 07:18:58,275 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:18:58,275 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 07:18:58,277 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:18:58,277 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalcJsfHib\src\test\resources
+2023-10-31 07:21:49,691 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [610])
+2023-10-31 07:21:49,706 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2023-10-31 07:21:49,707 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\aether-connector-okhttp-0.17.8.jar
+2023-10-31 07:21:49,707 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\commons-lang3-3.8.1.jar
+2023-10-31 07:21:49,707 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\guice-4.2.2-no_aop.jar
+2023-10-31 07:21:49,707 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\jansi-2.4.0.jar
+2023-10-31 07:21:49,707 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-artifact-3.8.7.jar
+2023-10-31 07:21:49,708 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-builder-support-3.8.7.jar
+2023-10-31 07:21:49,708 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-compat-3.8.7.jar
+2023-10-31 07:21:49,708 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-core-3.8.7.jar
+2023-10-31 07:21:49,708 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-embedder-3.8.7.jar
+2023-10-31 07:21:49,708 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-3.8.7.jar
+2023-10-31 07:21:49,708 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-builder-3.8.7.jar
+2023-10-31 07:21:49,708 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-plugin-api-3.8.7.jar
+2023-10-31 07:21:49,708 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-repository-metadata-3.8.7.jar
+2023-10-31 07:21:49,708 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-api-1.6.3.jar
+2023-10-31 07:21:49,708 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-10-31 07:21:49,708 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-impl-1.6.3.jar
+2023-10-31 07:21:49,709 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-provider-3.8.7.jar
+2023-10-31 07:21:49,709 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-spi-1.6.3.jar
+2023-10-31 07:21:49,709 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-10-31 07:21:49,709 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-util-1.6.3.jar
+2023-10-31 07:21:49,709 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-3.8.7.jar
+2023-10-31 07:21:49,709 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-builder-3.8.7.jar
+2023-10-31 07:21:49,709 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-shared-utils-3.3.4.jar
+2023-10-31 07:21:49,709 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okhttp-3.14.1.jar
+2023-10-31 07:21:49,709 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okio-1.17.3.jar
+2023-10-31 07:21:49,709 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-10-31 07:21:49,710 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-10-31 07:21:49,710 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-build-api-0.0.7.jar
+2023-10-31 07:21:49,710 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-cipher-2.0.jar
+2023-10-31 07:21:49,710 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar
+2023-10-31 07:21:49,710 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-component-annotations-2.1.0.jar
+2023-10-31 07:21:49,710 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-interpolation-1.26.jar
+2023-10-31 07:21:49,710 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-sec-dispatcher-2.0.jar
+2023-10-31 07:21:49,710 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-utils-3.3.1.jar
+2023-10-31 07:21:49,710 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-file-3.5.3.jar
+2023-10-31 07:21:49,710 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-provider-api-3.5.3.jar
+2023-10-31 07:21:49,711 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_32.1.2.jre [1332])
+2023-10-31 07:21:49,712 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\com.google.guava_32.1.2.jre.jar
+2023-10-31 07:21:49,713 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [924])
+2023-10-31 07:21:49,713 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\slf4j.api_1.7.36.jar
+2023-10-31 07:21:49,713 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [35])
+2023-10-31 07:21:49,861 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-10-31 07:21:49,861 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [33])
+2023-10-31 07:21:50,083 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\javax.annotation_1.3.5.v20221203-1659.jar
+2023-10-31 07:21:50,083 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [67])
+2023-10-31 07:21:50,096 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2023-10-31 07:21:50,096 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [13])
+2023-10-31 07:21:50,159 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\smrutip\Downloads\eclipse\plugins\com.google.guava.failureaccess_1.0.1.jar
+2023-10-31 07:21:50,168 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\smrutip\AppData\Local\Temp\m2e-archetypeGenerator16415832149419513902":
+2023-10-31 07:21:50,168 [Worker-43: Launching mavenrun-03145f79-89c3-48e4-b4fd-3f7c867823ff] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.glassfish.jersey.archetypes -DarchetypeArtifactId=jersey-quickstart-webapp -DarchetypeVersion=3.1.3 -DgroupId=Infinite -DartifactId=Calcjsf -Dversion=0.0.1-SNAPSHOT -Dpackage=com.java.hib -DoutputDirectory="D:\InfinitePractice Pgm" -Dstyle.color=always -U archetype:generate
+2023-10-31 07:22:14,707 [Worker-48: Creating jersey-quickstart-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\InfinitePractice Pgm\Calcjsf\pom.xml
+2023-10-31 07:22:14,951 [Worker-48: Creating jersey-quickstart-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Infinite:Calcjsf:0.0.1-SNAPSHOT @ D:\InfinitePractice Pgm\Calcjsf\pom.xml.
+2023-10-31 07:22:16,259 [Worker-48: Creating jersey-quickstart-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Calcjsf/src/main/java
+2023-10-31 07:22:16,260 [Worker-48: Creating jersey-quickstart-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Calcjsf/src/main/resources
+2023-10-31 07:22:16,268 [Worker-48: Creating jersey-quickstart-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Calcjsf/src/test/java
+2023-10-31 07:22:17,541 [Worker-48: Creating jersey-quickstart-webapp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:22:17,541 [Worker-48: Creating jersey-quickstart-webapp] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 07:22:17,543 [Worker-48: Creating jersey-quickstart-webapp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:22:17,543 [Worker-48: Creating jersey-quickstart-webapp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\Calcjsf\src\test\resources
+2023-10-31 07:22:18,332 [Worker-48: Creating jersey-quickstart-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2023-10-31 07:22:18,555 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:22:18,555 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 07:22:18,557 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:22:18,557 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\Calcjsf\src\test\resources
+2023-10-31 07:22:50,226 [Worker-49: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:236)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:585)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:485)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:362)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:314)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1020)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:247)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:392)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:395)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:506)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:454)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:536)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:196)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:289)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'dependencies' (position: START_TAG seen ...<dependencies>\r\n\t\t <dependencies>... @46:18) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:234)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'dependencies' (position: START_TAG seen ...<dependencies>\r\n\t\t <dependencies>... @46:18) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:178)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2243)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 26 common frames omitted
+2023-10-31 07:22:51,400 [Worker-50: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:236)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:585)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:485)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:362)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:314)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1020)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:247)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:392)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:395)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:506)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:454)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:536)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:196)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:289)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'dependencies' (position: START_TAG seen ...<dependencies>\r\n\t\t <dependencies>... @46:18) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:234)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'dependencies' (position: START_TAG seen ...<dependencies>\r\n\t\t <dependencies>... @46:18) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:178)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2243)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 26 common frames omitted
+2023-10-31 07:22:51,474 [Worker-50: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM D:\InfinitePractice Pgm\Calcjsf\pom.xml: end tag name </project> must match start tag name <dependencies> from line 45 (position: TEXT seen ...</properties>\r\n</project>... @96:11)  @ line 96, column 11
+
+org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM D:\InfinitePractice Pgm\Calcjsf\pom.xml: end tag name </project> must match start tag name <dependencies> from line 45 (position: TEXT seen ...</properties>\r\n</project>... @96:11)  @ line 96, column 11
+
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readMavenProjects(IMavenToolbox.java:131)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$20(ProjectRegistryManager.java:902)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:898)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:214)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:105)
+	at org.fusesource.ide.camel.model.service.core.util.CamelMavenUtils.getMavenProjectFacade(CamelMavenUtils.java:109)
+	at org.fusesource.ide.camel.model.service.core.util.CamelMavenUtils.getDependencyList(CamelMavenUtils.java:198)
+	at org.fusesource.ide.camel.model.service.core.util.CamelMavenUtils.getDependencyList(CamelMavenUtils.java:194)
+	at org.fusesource.ide.camel.model.service.core.util.CamelMavenUtils.getCamelVersionFromMaven(CamelMavenUtils.java:137)
+	at org.fusesource.ide.camel.model.service.core.util.ProjectClasspathChangedListener.notifyClasspathChanged(ProjectClasspathChangedListener.java:145)
+	at org.fusesource.ide.camel.model.service.core.util.ProjectClasspathChangedListener.visit(ProjectClasspathChangedListener.java:134)
+	at org.fusesource.ide.camel.model.service.core.util.ProjectClasspathChangedListener.visitChildren(ProjectClasspathChangedListener.java:89)
+	at org.fusesource.ide.camel.model.service.core.util.ProjectClasspathChangedListener.visit(ProjectClasspathChangedListener.java:130)
+	at org.fusesource.ide.camel.model.service.core.util.ProjectClasspathChangedListener.elementChanged(ProjectClasspathChangedListener.java:62)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1757)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1745)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1578)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1554)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyAndFire(DeltaProcessor.java:2275)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2165)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:501)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:307)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:297)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:160)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:388)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1514)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:210)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:289)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-10-31 07:22:55,038 [Worker-50: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM D:\InfinitePractice Pgm\Calcjsf\pom.xml: end tag name </project> must match start tag name <dependencies> from line 45 (position: TEXT seen ...</properties>\r\n</project>... @96:11)  @ line 96, column 11
+
+org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM D:\InfinitePractice Pgm\Calcjsf\pom.xml: end tag name </project> must match start tag name <dependencies> from line 45 (position: TEXT seen ...</properties>\r\n</project>... @96:11)  @ line 96, column 11
+
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readMavenProjects(IMavenToolbox.java:131)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$20(ProjectRegistryManager.java:902)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:898)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:214)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:105)
+	at org.fusesource.ide.camel.model.service.core.util.CamelMavenUtils.getMavenProjectFacade(CamelMavenUtils.java:109)
+	at org.fusesource.ide.camel.model.service.core.util.CamelMavenUtils.getRepositories(CamelMavenUtils.java:46)
+	at org.fusesource.ide.camel.model.service.core.catalog.cache.CamelCatalogCacheManager.getCamelModelForProject(CamelCatalogCacheManager.java:130)
+	at org.fusesource.ide.camel.model.service.core.util.ProjectClasspathChangedListener.notifyClasspathChanged(ProjectClasspathChangedListener.java:156)
+	at org.fusesource.ide.camel.model.service.core.util.ProjectClasspathChangedListener.visit(ProjectClasspathChangedListener.java:134)
+	at org.fusesource.ide.camel.model.service.core.util.ProjectClasspathChangedListener.visitChildren(ProjectClasspathChangedListener.java:89)
+	at org.fusesource.ide.camel.model.service.core.util.ProjectClasspathChangedListener.visit(ProjectClasspathChangedListener.java:130)
+	at org.fusesource.ide.camel.model.service.core.util.ProjectClasspathChangedListener.elementChanged(ProjectClasspathChangedListener.java:62)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1757)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1745)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1578)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1554)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyAndFire(DeltaProcessor.java:2275)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2165)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:501)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:307)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:297)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:160)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:388)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1514)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:210)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:289)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-10-31 07:23:23,502 [Worker-45: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Infinite:Calcjsf:0.0.1-SNAPSHOT @ D:\InfinitePractice Pgm\Calcjsf\pom.xml.
+2023-10-31 07:23:23,630 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:23:23,631 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 07:23:23,632 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:23:23,632 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\Calcjsf\src\test\resources
+2023-10-31 07:23:23,632 [Worker-45: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Calcjsf
+2023-10-31 07:23:23,632 [Worker-45: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Calcjsf
+2023-10-31 07:23:55,465 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:23:55,466 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 07:23:55,467 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:23:55,467 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\Calcjsf\src\test\resources
+2023-10-31 07:24:34,771 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:24:34,771 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 07:24:34,773 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:24:34,773 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\Calcjsf\src\test\resources
+2023-10-31 07:24:47,381 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:24:47,381 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 07:24:47,382 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:24:47,382 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\Calcjsf\src\test\resources
+2023-10-31 07:25:12,541 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:25:12,541 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 07:25:12,543 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:25:12,543 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\Calcjsf\src\test\resources
+2023-10-31 07:25:48,869 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:25:48,869 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 07:25:48,870 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:25:48,870 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\Calcjsf\src\test\resources
+2023-10-31 07:26:30,692 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:26:30,692 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 07:26:30,695 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:26:30,695 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\Calcjsf\src\test\resources
+2023-10-31 07:27:07,819 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:27:07,819 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 07:27:07,821 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:27:07,821 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\Calcjsf\src\test\resources
+2023-10-31 07:28:16,983 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:28:16,984 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 07:28:16,986 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 07:28:16,986 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\Calcjsf\src\test\resources
+2023-10-31 12:09:19,158 [Worker-61: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: infinite:SimpleCalc:0.0.1-SNAPSHOT @ D:\InfinitePractice Pgm\SimpleCalc\pom.xml.
+2023-10-31 12:09:35,303 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 12:09:35,303 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 12:09:35,305 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 12:09:35,306 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalc\src\test\resources
+2023-10-31 12:09:36,040 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 12:09:36,041 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 12:09:36,045 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 12:09:36,046 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalc\src\test\resources
+2023-10-31 12:19:36,107 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 12:19:36,109 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 12:19:36,112 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 12:19:36,112 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalc\src\test\resources
+2023-10-31 12:21:00,675 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 12:21:00,675 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 12:21:00,677 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 12:21:00,677 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalc\src\test\resources
+2023-10-31 12:47:11,822 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 12:47:11,822 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 12:47:11,825 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 12:47:11,825 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalc\src\test\resources
+2023-10-31 12:47:19,662 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 12:47:19,664 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 12:47:19,666 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 12:47:19,666 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalc\src\test\resources
+2023-10-31 12:48:09,309 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 12:48:09,309 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 12:48:09,313 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 12:48:09,313 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalc\src\test\resources
+2023-10-31 12:48:28,052 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 12:48:28,053 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 12:48:28,056 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 12:48:28,057 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalc\src\test\resources
+2023-10-31 14:24:07,348 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 14:24:07,349 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 14:24:07,351 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 14:24:07,351 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalc\src\test\resources
+2023-10-31 18:44:47,870 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-31 18:44:55,039 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 18:44:55,045 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-31 18:44:55,049 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-31 18:44:55,050 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\InfinitePractice Pgm\SimpleCalc\src\test\resources
+2023-11-01 11:32:53,118 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
