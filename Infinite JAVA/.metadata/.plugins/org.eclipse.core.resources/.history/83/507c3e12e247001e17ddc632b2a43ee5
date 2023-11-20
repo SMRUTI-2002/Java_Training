@@ -1,0 +1,11 @@
+package com.java.day1;
+
+import java.util.List;
+
+public class AgentDAO {
+	
+	List<Agent> showAgentDao();
+	int incrimentAgent();
+	String addAgentDao(Agent agent);
+
+}

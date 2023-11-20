@@ -1,0 +1,7 @@
+INDEX VERSION 1.132
+D:\Infinite JAVA\EjbDemo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1717011927.index
+\SimpleCalc\src\main\java
+D:\Infinite JAVA\EjbDemo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3310774066.index
+\CalculatorClient\src\main\java
+D:\Infinite JAVA\EjbDemo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1694806947.index
+\CalculatorClient\src\main\java

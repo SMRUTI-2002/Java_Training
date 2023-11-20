@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:ui="http://java.sun.com/jsf/facelets"
+      xmlns:f="http://java.sun.com/jsf/core"
+      xmlns:h="http://java.sun.com/jsf/html">
+
+	<h:form>
+	<style>
+	body {
+    font-family: Arial, sans-serif;
+    background-color: #0BCBB9;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the form */
+h\:form {
+    margin: 20px;
+    padding: 20px;
+    background-color: #B717EA;
+    border: 1px solid #B717EA;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Style the selectManyCheckbox */
+h\:selectManyCheckbox {
+    margin-bottom: 10px;
+}
+
+/* Style the selectItems */
+f\:selectItems {
+    margin-left: 10px;
+}
+
+/* Style the line break */
+br {
+    clear: both;
+}
+	</style>
+	
+	
+	<h:selectManyCheckbox value="#{employ.name}">
+		<f:selectItems value="#{employDao.getNames()}"/> <br/>
+	</h:selectManyCheckbox>
+	
+	</h:form>
+</html>

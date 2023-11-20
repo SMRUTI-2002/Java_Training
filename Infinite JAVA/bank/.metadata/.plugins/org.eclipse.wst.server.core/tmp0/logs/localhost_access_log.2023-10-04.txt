@@ -1,0 +1,5 @@
+127.0.0.1 - - [04/Oct/2023:20:15:15 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [04/Oct/2023:20:15:16 +0530] "GET /EmployDashBoardJSP/EmployShow.jsp HTTP/1.1" 200 3007
+0:0:0:0:0:0:0:1 - - [04/Oct/2023:20:15:16 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [04/Oct/2023:20:17:53 +0530] "GET /Complaint/showComplaint.jsp HTTP/1.1" 500 3121
+0:0:0:0:0:0:0:1 - - [04/Oct/2023:20:17:53 +0530] "GET /favicon.ico HTTP/1.1" 404 1085

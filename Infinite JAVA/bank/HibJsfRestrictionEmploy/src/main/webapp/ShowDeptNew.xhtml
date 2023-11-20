@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:ui="http://java.sun.com/jsf/facelets"
+      xmlns:f="http://java.sun.com/jsf/core"
+      xmlns:h="http://java.sun.com/jsf/html">
+
+	<head>
+    <style>
+        /* Add colorful CSS styles here */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #87FFE7;
+            color: #333;
+        }
+
+        h:form {
+            margin: 20px;
+            background-color: #fff;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        h:selectOneMenu {
+            width: 200px;
+            background-color: #f9f9f9;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        h:outputLabel {
+            font-weight: bold;
+            color: #007bff; /* Blue color */
+        }
+
+        h:dataTable {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        h:column {
+            border: 1px solid #ccc;
+            padding: 8px;
+            background-color: #f5f5f5;
+        }
+
+        /* Add more colorful styles as needed */
+    </style>
+</head>
+<body>
+
+
+		<h:form>
+		<ui:include src="/Menu.xhtml"/>
+		<h:selectOneMenu value="#{employDao.localCode}" onchange="submit()"
+		valueChangeListener ="#{employDao.employLocaleCodeChanged}">
+		<f:selectItems value="#{employDao.getDepartments()}"/>
+		</h:selectOneMenu>
+	<h:outputLabel value="Selected Department is "/>
+	<h:outputText value="#{employDao.localCode}"/>
+		<h:dataTable value="#{employDao.getEmployListByDept(employDao.localCode)}" 
+		var="e" border="3">
+		<h:column>
+			<f:facet name="header">Employ No</f:facet>
+			<h:outputText value="#{e.empno}"/>
+		</h:column>
+		
+		<h:column>
+			<f:facet name="header">Employ Name</f:facet>
+			<h:outputText value="#{e.name}"/>
+		</h:column>	
+		
+		<h:column>
+			<f:facet name="header">Gender</f:facet>
+			<h:outputText value="#{e.gender}"/>
+		</h:column>	
+		
+		<h:column>
+			<f:facet name="header">Employ Department</f:facet>
+			<h:outputText value="#{e.dept}"/>
+		</h:column>	
+		
+		<h:column>
+			<f:facet name="header">Employ Designation</f:facet>
+			<h:outputText value="#{e.desig}"/>
+		</h:column>
+		
+		<h:column>
+			<f:facet name="header">Basic</f:facet>
+			<h:outputText value="#{e.basic}"/>
+		</h:column>	
+		</h:dataTable>
+		</h:form>
+	</body>
+</html>

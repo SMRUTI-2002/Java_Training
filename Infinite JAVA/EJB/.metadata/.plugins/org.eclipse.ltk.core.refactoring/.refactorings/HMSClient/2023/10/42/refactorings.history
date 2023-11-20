@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;HMSClient/src/main/webapp/showDoectors.jsp&apos; to &apos;showDoctor.jsp&apos;" description="Rename resource &apos;showDoectors.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/showDoectors.jsp" name="showDoctor.jsp" stamp="1697650495556" updateReferences="true"/>
+</session>

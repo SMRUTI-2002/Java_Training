@@ -1,0 +1,33 @@
+package com.java.ejb;
+
+import java.util.List;
+
+import javax.ejb.LocalBean;
+import javax.ejb.Remote;
+import javax.ejb.Stateless;
+
+/**
+ * Session Bean implementation class EmployEjbBean
+ */
+@Stateless
+@Remote(EmployEjbBeanRemote.class)
+public class EmployEjbBean implements EmployEjbBeanRemote {
+	  static EmployDAO daoImpl;
+	  
+	  static {
+		  daoImpl = new EmployDAOImpl();
+	  }
+
+	  /**
+	     * Default constructor. 
+	     */
+	    public EmployJdbcBean() {
+	        // TODO Auto-generated constructor stub
+	    }
+
+		@Override
+		public List<Employ> showEmploy() throws ClassNotFoundException, SQLException {
+			return daoImpl.showEmployDao();
+		}
+
+}

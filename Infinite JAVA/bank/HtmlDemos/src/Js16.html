@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+	function show(){
+		var arr = new Array ("Soumya","Chandan","Chintan","Amit","Prasant",);
+		var result = "";
+		for (var v in arr ){
+			result+=arr[v]+"";
+		}
+			document.getElementById("result").innerHTML = result;
+		
+	}
+</script>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body onload = "show()" >
+	 <span id="result"></span>
+
+</body>
+</html>

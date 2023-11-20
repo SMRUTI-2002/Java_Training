@@ -1,0 +1,5 @@
+127.0.0.1 - - [02/Nov/2023:12:16:46 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [02/Nov/2023:12:16:47 +0530] "GET /LibraryManagement/Menu.jsp HTTP/1.1" 200 2170
+0:0:0:0:0:0:0:1 - - [02/Nov/2023:12:16:47 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [02/Nov/2023:12:16:55 +0530] "GET /LibraryManagement/AccountDetails.jsp HTTP/1.1" 404 1114
+0:0:0:0:0:0:0:1 - - [02/Nov/2023:12:17:00 +0530] "GET /LibraryManagement/Search.jsp HTTP/1.1" 200 3300

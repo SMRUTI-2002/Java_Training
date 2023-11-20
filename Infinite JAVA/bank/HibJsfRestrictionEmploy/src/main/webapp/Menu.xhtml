@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:ui="http://java.sun.com/jsf/facelets"
+      xmlns:f="http://java.sun.com/jsf/core"
+      xmlns:h="http://java.sun.com/jsf/html">
+
+<head>
+    <style>
+        /* Define CSS styles for the menu page */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+
+        p {
+            font-size: 18px;
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .menu-links {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .menu-link {
+            font-size: 16px;
+            text-decoration: none;
+            padding: 10px 20px;
+            margin: 0 10px;
+            background-color: #007BFF;
+            color: #fff;
+            border-radius: 5px;
+        }
+
+        .menu-link:hover {
+            background-color: #0056b3;
+        }
+
+        hr {
+            border: 1px solid #ccc;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+	
+	
+		<h1>Welcome to the menu page...</h1>
+			<h:commandLink id="image-link-id" action="ShowDeptNew.xhtml">
+				<h:outputText value="Show Departments"/>
+			</h:commandLink>
+			&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+			<h:commandLink id="image-link-id1" action="EmployShow.xhtml">
+				<h:outputText value="Show Employ"/>
+			</h:commandLink>
+		<hr/>
+	
+	
+</html>

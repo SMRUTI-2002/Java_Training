@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\Infinite JAVA\rmi\.metadata\.plugins\org.eclipse.jdt.core
+1696264553.index
+581391414.index
+1865797976.index

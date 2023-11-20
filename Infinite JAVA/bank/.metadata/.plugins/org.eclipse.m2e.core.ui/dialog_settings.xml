@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\smrutip\Downloads\ResturantManagement (1)\ResturantManagement\src\main\java\com\java\rms\Restaurant.java"/>
+			<item value="D:\Infinite JAVA\bank\OneToOneNew\src\main\java\com\java\inf\Employee.java"/>
+			<item value="D:\Infinite JAVA\bank\OneToOneNew\src\main\java\com\java\inf\ShowDetails.java"/>
+			<item value="D:\Infinite JAVA\bank\OtpExam\src\main\java\com\java\servlets\ValidateOtpServlet.java"/>
+			<item value="D:\Infinite JAVA\bank\HibJsfExmp\src\main\resources\hibernate.cfg.xml"/>
+			<item value="D:\Infinite JAVA\bank\HotelCustomer\src\main\webapp\CustomerShow.jsp"/>
+			<item value="D:\Infinite JAVA\bank\AgentDashBoardJSP"/>
+			<item value="D:\Infinite JAVA\bank\JsfDemos"/>
+			<item value="D:\Infinite JAVA\bank\JsfHelloWorld"/>
+			<item value="D:\Infinite JAVA\bank\JspBeansDemo\src\main\webapp\AddEmploy.jsp"/>
+			<item value="D:\Infinite JAVA\bank\JunitDemo\src\test\java\com\java\junitdemo\EmployTest.java"/>
+			<item value="D:\Infinite JAVA\bank\JstlExamples\src\main\java"/>
+			<item value="D:\Infinite JAVA\bank\JspDemos\src\main\webapp\EmployShow.jsp"/>
+			<item value="D:\Infinite JAVA\bank\CustomerRequirement\src\main\java\com\java\servlets\SendMail.java"/>
+			<item value="D:\Infinite JAVA\bank\StateManagement\src\main\webapp\SignUp.html"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.java.hms"/>
+			<item value="com.java.inf"/>
+		</list>
+		<list key="groupId">
+			<item value="Infinite"/>
+		</list>
+		<list key="artifactId">
+			<item value="HospitalManagement"/>
+			<item value="OneToOneEx1"/>
+			<item value="OneToMenu"/>
+			<item value="OneToOneNew"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

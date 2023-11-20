@@ -1,0 +1,7 @@
+INDEX VERSION 1.132+D:\Infinite JAVA\Ejb2\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2872223847.index
+2785381971.index
+1326333663.index
+89686527.index
+627198412.index

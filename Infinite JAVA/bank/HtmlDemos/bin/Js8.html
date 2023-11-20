@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script>
+		function show(){
+			var res = frmRadio.gender.value;
+			document.getElementById("result").innerHTML=res;
+		}
+	</script>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+    <form name="frmData">
+		Gender:
+		<input type = "radio" name = "gender" value = "Male" onchange="show()" /> Male
+		<input type = "radio" name = "gender" value = "FeMale" onchange="show()" /> FeMale
+		<br/><br/>
+		<span id = "result"></span>
+	</form>
+</body>
+</html>

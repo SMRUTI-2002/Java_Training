@@ -1,0 +1,22 @@
+package com.java.junitdemo;
+
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertNotNull;
+
+import org.junit.Test;
+
+public class LeaveDetailsTest {
+	
+	@Test
+	public void TestGettersAndSetters() {
+		LeaveDetails leavedetails = new LeaveDetails();
+		leavedetails.setLeaveId(1);
+		leavedetails.setEmpId(1033217);
+		leavedetails.setEmpName("Smruti");
+		leavedetails.setLeaveStartDate("date");
+		leavedetails.setLeaveEndDate("date");
+		leavedetails.setLeaveStatus("ACCEPTED");
+		
+	}
+
+}
