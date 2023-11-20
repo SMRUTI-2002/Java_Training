@@ -1,0 +1,584 @@
+.What is true with Map Collection
+(1 Point)
+
+A) Map interface stores in key/value pairs
+
+B) Map interface can takes null values
+
+C) Map cannot contains duplicate keys
+
+D) All
+Ans:-
+D) All
+
+All the statements (A, B, and C) are true with respect to the Map collection interface. A Map stores key-value pairs, it can have null values, and it cannot contain duplicate keys.
+
+
+
+
+
+Which collections are synchronized
+(1 Point)
+
+A) ArrayList
+
+B) LinkedList
+
+C) Vector
+
+D) None
+Ans:-
+C) Vector
+
+Vector is the only collection in the list that is synchronized by default. ArrayList and LinkedList are not synchronized, and you would need to use external synchronization mechanisms if you need to access them safely in a multi-threaded environment.
+
+
+
+
+
+What is the output for below code
+
+public class Prog20 {
+    public static void main(String[] args) {
+        Map m = new HashMap(); 
+        m.put(1, "Sanju");
+        m.put(2, "Niki");
+        m.put(3, "Nishtha");
+        m.put(4, "Kolage");
+        m.put(5, "Salve");
+        m.put(6, "Babbar");
+        
+        String res = (String) m.getOrDefault(6, "Not Found");
+        System.out.println(res);
+    }
+}
+(1 Point)
+
+A) Compile Time Error
+
+B) Babbar
+
+C) Niki
+
+D) Salve
+Ans:-
+The output of the given code will be:
+
+B) Babbar
+
+The code creates a HashMap and uses the getOrDefault method to retrieve the value associated with the key 6. Since the key 6 exists in the HashMap with the value "Babbar", it will return "Babbar" as the output.
+
+
+
+
+
+What are the implementation classes of the List interface?
+(1 Point)
+
+A) ArrayList
+
+B) LinkedList
+
+C) Vector
+
+D) ALL
+Ans:-
+D) ALL
+
+All of the options (ArrayList, LinkedList, and Vector) are implementation classes of the List interface in Java.
+
+
+
+
+
+Which Collection interface does not allow duplicates 
+(1 Point)
+
+A) List
+
+B) Map
+
+C) Set
+
+D) None
+Ans:-
+C) Set
+
+The Set interface in Java does not allow duplicate elements.
+
+
+
+
+
+Which collection contains key/value pairs
+(1 Point)
+
+A) Set
+
+B) HashSet
+
+C) Map
+
+D) SortedSet
+Ans:-
+C) Map
+
+The collection that contains key/value pairs is the Map interface in Java.
+
+
+
+
+
+What would be output for below code
+
+public class Prog21 {
+    public static void main(String[] args) {
+        List<Integer> list = new ArrayList<>();
+    list.add(101); 
+    list.add(102);
+    int aValue = list.get(1); 
+
+    System.out.println(aValue); 
+    }
+}
+(1 Point)
+
+A) 101
+
+B) 102
+
+C) NULL
+
+D) Runtime Error
+Ans:-
+The output of the given code will be:
+
+B) 102
+
+The code creates an ArrayList, adds two integers (101 and 102) to it, and then retrieves the value at index 1 using list.get(1), which is 102. Therefore, it will print "102" to the console.
+
+
+
+
+
+What would be output for below code
+
+public class P31 {
+    public static void main(String[] args) {
+        try {
+            int a=5;
+            int b=4;
+            int c=a/b;
+            System.out.println("Hi");
+        } catch(ArithmeticException e) {
+            System.out.println("Divex");
+        } finally {
+            System.out.println("Program End...");
+        }
+    }
+}
+
+(1 Point)
+
+A) Compile Time Error
+
+B) Hi Program End
+
+C) DivEx Program End
+
+D) Program End
+Ans:-
+The output of the given code will be:
+
+B) Hi
+Program End...
+
+The code performs integer division (a/b), which is valid and doesn't result in an ArithmeticException. So, it will execute the "Hi" print statement, followed by the "Program End..." print statement in the finally block.
+
+
+
+
+
+What is the output ofr below code 
+
+public class E1 {
+      public static void main(String[] args) {
+              try {
+                  int a=5;
+                  int b=4;
+                  int c=a/b;
+                  System.out.println("Hi");
+              }
+              catch (Exception e) {
+                    System.out.println("Error");
+              }
+              catch(ArithmeticException e) {
+                  System.out.println("Divex");
+              } finally {
+                  System.out.println("Program End...");
+              }
+      }
+}
+Ans:-
+The output of the given code will be:
+
+Hi
+Program End...
+
+In this code, an integer division operation is performed (a/b), which is valid and doesn't result in an ArithmeticException. So, it will execute the "Hi" print statement, and then it will execute the "Program End..." print statement in the finally block. The catch block for ArithmeticException is not executed in this case because there is no arithmetic exception thrown.
+
+
+
+
+
+Which method removes all elements from a collection?
+(1 Point)
+
+A) deleteAll
+
+B) removeAll() 
+
+C) clear()
+
+D) purge()
+Ans:-
+C) clear()
+
+The clear() method is used to remove all elements from a collection in Java.
+
+
+
+
+
+Which list method replaces the element at a specified position?
+(1 Point)
+
+a) replace()
+
+b) set()
+
+c) put()
+
+d) insert()
+Ans:-
+b) set()
+
+The set(int index, E element) method in a List replaces the element at the specified position (index) with the given element (E).
+
+
+
+
+
+Identify which statements are true
+(1 Point)
+
+a) finally block code executes mandatorily
+
+b) try without catch is possible
+
+c) one try block contains multiple catch blocks
+
+d) all the above
+Ans:-
+d) all the above
+
+All the statements (a, b, and c) are true:
+
+a) The finally block code executes mandatorily, whether an exception is thrown or not.
+
+b) It is possible to have a try block without a catch block. This is used when you want to perform some actions in the try block but don't need to handle exceptions immediately.
+
+c) One try block can contain multiple catch blocks to handle different types of exceptions that may be thrown within the try block.
+
+
+
+
+
+.Identify the collection in below ones
+(1 Point)
+
+A) Array
+
+B) ArrayList
+
+C) Thread
+
+D) Array
+Ans:-
+The collections among the options are:
+
+B) ArrayList
+
+D) Array
+
+Both ArrayList and Array are collections in Java. "Array" in this context refers to a fixed-size data structure, while "ArrayList" is a dynamic, resizable implementation of a List interface. The other options (A) and (C) are not collections.
+
+
+
+
+
+Which collection allows you to retrieve elements in the order they were inserted?
+(1 Point)
+
+A) HashSet
+
+B) LinkedHashSet
+
+C) HashTable
+
+D) HashMap
+Ans:-
+B) LinkedHashSet
+
+LinkedHashSet is the collection that allows you to retrieve elements in the order they were inserted. It maintains the insertion order of elements while also ensuring uniqueness.
+
+
+
+
+User
+public class E1 {
+
+      static {
+            try {throw new ArithmeticException("my exception");
+
+            }
+            catch(ArithmeticException e) {
+            System.out.println("3");
+            }
+            catch(Exception e){
+              System.out.println("2");
+            }
+          }
+       
+          public static void main(String[] args){
+            System.out.println("1");
+          }
+}
+(1 Point)
+
+A) 1 2
+
+B) 2 1
+
+C) Compile Time Error
+
+D) Runtime Error
+Ans:-
+The output of the given code will be:
+
+B) 2
+1
+
+Here's the explanation:
+
+The static block is executed when the class is loaded. In the static block, an ArithmeticException is thrown and caught by the first catch block, which prints "3."
+
+After the static block, the main method is executed, which prints "1."
+
+So, the output order is "2" followed by "1."
+
+
+
+
+User
+Which of the following collections is sorted by its natural ordering?
+(1 Point)
+
+A) HashSet
+
+B) TreeSet
+
+C) LinkedList
+
+D) HashTable
+Ans:-
+B) TreeSet
+
+A TreeSet is sorted by its natural ordering or according to a specified comparator during initialization. It maintains elements in ascending order by default. Other collections like HashSet, LinkedList, and HashTable do not guarantee any specific order of elements.
+
+
+
+
+User
+Type-safety can be provided by
+(1 Point)
+
+A) Generics
+
+B) Abstract Class
+
+C) Interface
+
+D) Collection
+Ans:-
+A) Generics
+
+Generics in Java are used to provide type-safety by allowing you to specify the type of elements that a collection or class can work with. This helps catch type-related errors at compile-time rather than runtime.
+
+
+
+
+User
+Comparator interfaces which method
+(1 Point)
+
+A) compareTo()
+
+B) compare(object,object)
+
+C) compareTo()
+
+D) None
+Ans:-
+B) compare(object, object)
+
+The compare(Object o1, Object o2) method is part of the Comparator interface in Java, which is used to compare two objects for ordering.
+
+
+
+
+User
+Which of these classes should be preferred to be used as a key in a HashMap?
+(1 Point)
+
+a) string
+
+b) Integer
+
+c) Double
+
+d) any of these
+Ans:-
+b) Integer
+
+The preferred classes to use as keys in a HashMap are those that provide stable and efficient hash codes. While you can use any class as a key as long as it properly implements the hashCode() and equals() methods, primitive wrapper classes like Integer are often preferred because they provide consistent and efficient hash codes. Using String as a key is also common and works well if the strings are used as keys in a non-changing manner. However, the choice depends on the specific requirements of your application.
+
+
+
+
+User
+.Identify the checked exceptions in below 
+(1 Point)
+
+A) ArithmeticException
+
+B) ParseException
+
+C) NumberFormatException
+
+D) ArrayIndexOutOfBoundsException
+Ans:-
+The checked exceptions among the options are:
+
+B) ParseException
+
+C) NumberFormatException
+
+Checked exceptions are exceptions that must be either caught using a try-catch block or declared in the method's throws clause. ArithmeticException and ArrayIndexOutOfBoundsException are unchecked exceptions and do not need to be explicitly caught or declared.
+
+
+
+
+User
+What would be output for below code
+
+public class E1 {
+      static {
+            try {throw new ArithmeticException("my exception");
+
+            }
+            catch(Exception e){
+              System.out.println("2");
+            }
+          }
+       
+          public static void main(String[] args){
+            System.out.println("1");
+          }
+}
+(1 Point)
+
+A) 1 1
+
+B) 2 2
+
+C) 3 1
+
+D) Runtime Error
+Ans:-
+The output of the given code will be:
+
+B) 2
+
+Here's the explanation:
+
+In the static block, an ArithmeticException is thrown, but it is caught by the catch block that catches Exception. So, it prints "2" from the catch block.
+
+After the static block, the main method is executed, which prints "1".
+
+
+
+
+User
+What is the output for below code
+public class P17 {
+    public static void main(String[] args) {
+        try {
+            System.out.println("B");
+            throw new NumberFormatException();
+        } catch(ArithmeticException e) {
+            System.out.println("A");
+        } catch(Exception e) {
+            System.out.println("C");
+        } finally {
+            System.out.println("Z");
+        }
+    }
+}
+(1 Point)
+
+A) B Z
+
+B) B C Z
+
+C) A C Z
+
+D) B A Z
+Ans:-
+The output of the given code will be:
+
+B) B C Z
+
+Here's the explanation:
+
+In the try block, "B" is printed, and then a NumberFormatException is thrown.
+
+In the catch blocks, it first checks for an ArithmeticException, which doesn't match, so it proceeds to the next catch block that catches Exception. "C" is printed.
+
+The finally block always executes, so "Z" is printed.
+
+So, the output order is "B C Z."
+
+
+
+
+User
+What would be output for below code
+
+public class P23 {
+    public static void main(String[] args) {
+        int[] a=new int[5];
+        try {
+            a[6]=5/3;
+        } catch(ArrayIndexOutOfBoundsException e) {
+            System.out.println("Array Size Small...");
+        } catch(ArithmeticException e) {
+            System.out.println("Division By Zero Impossible");
+        } catch(Exception e) {
+            System.out.println("General Exception");
+        }
+    }
+Ans:-
+The output of the given code will be:
+
+Array Size Small...

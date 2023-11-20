@@ -1,0 +1,261 @@
+1. Which middleware services are provided by EJB?
+
+A. Security
+B. Transaction Management
+(1 Point)
+
+Only A
+
+Only B
+
+Both A & B (Ans)
+
+None of the above
+
+
+2. What represents a persistent global data from the database? Published on 16 Jul 15
+(1 Point)
+
+Entity Bean  (Ans)
+
+Session Bean -
+
+Both A & B
+
+None of the above
+
+
+3. Which server-side component is required to be deployed on the server?
+(1 Point)
+
+EJB
+
+RMI
+
+Both A & B   (Ans)
+
+None of the above
+
+
+4.Which component does the Entity bean represents the persistent data stored in the database?
+(1 Point)
+
+Server-side component
+
+Client-side component
+
+server and client side component (Ans)
+
+None of the above
+
+
+5. Which case of a session bean obtains the UserTransaction object via the EJBContext using the getUserTransaction() method in EJB transaction management?
+
+A. Bean-managed transactions
+B. Container-managed transactions
+(1 Point)
+
+Only A  (Ans)
+
+Only B
+
+Both A & B
+
+None of the above
+
+
+6. The EJB specification architecture does NOT define 
+(1 Point)
+
+A. transactional components
+
+B. client side security and encryption  (Ans)
+
+C. distributed object components
+
+D. server-side components
+
+
+7. Which EJB container must provide an implementation of Java Naming and Directory Interface (JNDI) API to provide naming services for EJB clients and components?
+(1 Point)
+
+Transaction support
+
+Persistence support
+
+Naming support  (Ans)
+
+All mentioned above
+
+
+8. Which of the following annotation is used to specify or inject a dependency as ejb instance into another ejb? 
+(1 Point)
+
+
+A. javax.ejb.Stateless
+
+B. javax.ejb.Stateful
+
+C. javax.ejb.MessageDrivenBean
+
+D. javax.ejb.EJB  (Ans)
+
+
+9. A message driven bean is like statefull session bean that encapsulates the business logic and doesn't maintain state.
+(1 Point)
+
+True
+
+False  (Ans)
+
+Not Justifies
+
+Error
+
+
+10. Which component does the Entity bean represent the persistent data stored in the database? Published on 20 Jul 15 -
+(1 Point)
+
+Server-side component
+
+Client-side component
+
+server and client side component  (Ans)
+
+None of the above
+
+
+11. Which session bean does the conversational state between multiple method calls is not maintained by the container?
+(1 Point)
+
+Stateful Session Bean
+
+Stateless Session Bean (Ans)
+
+Singleton Session Bean
+
+None of the above
+
+
+12. Which of the following is true?
+
+A. Preserving of any state across method calls does not performed by Stateless session beans
+B. Multiple users can access Stateful session beans at the same time
+(1 Point)
+
+Only A   (Ans)
+
+Only B
+
+Both A and B
+
+None of the above
+
+
+13. EJB QL is a Query Language provided for navigation across a network of enterprise beans and dependent objects defined by means of container managed persistence.
+(1 Point)
+
+True  (Ans)
+
+False
+
+Not Justified
+
+Error
+
+
+14. Which services are provided to EJB components by the EJB container?
+(1 Point)
+
+Transaction support
+
+Persistence support
+
+Naming support
+
+All mentioned above  (Ans)
+
+
+15. Which session bean maintain their state between client invocations but are not required to maintain their state across server crashes or shutdowns?
+(1 Point)
+
+Stateful Session Bean  (Ans)
+
+Stateless Session Bean
+
+Singleton Session Bean
+
+None of the above
+
+
+16. Which EJB container must provide an implementation of Java Naming and Directory Interface (JNDI) API to provide naming services for EJB clients and components?
+(1 Point)
+
+Transaction support
+
+Persistence support
+
+Naming support  (Ans)
+
+All mentioned above
+
+
+17. Which statement about session beans is true?
+(1 Point)
+
+In both stateless and statefull session classes, the bean provider must write the method public void remove()
+
+The method << remove >> in the component interface can be accessed only by the remote clients
+
+The bean's handle must be provided by the client, in order to ask the EJBHome for removing a session bean      (Ans)
+
+None
+
+19. Which type of instances retain no data or conversational state for a specific client?
+(1 Point)
+
+Message-Driven Bean (Ans)
+
+Session Bean
+
+Entity Bean
+
+None of the above
+
+
+20. How many types of session beans are available in EJB?
+(1 Point)
+
+2 (Ans)
+
+3
+
+4
+
+5
+
+
+21. Abbreviate the term JMS?
+(1 Point)
+
+Java Message Service (Ans)
+
+Java Monitor Service
+
+Java Message Session
+
+Java Monitor Session
+
+
+
+
+
+
+
+
+
+
+
+
+
+

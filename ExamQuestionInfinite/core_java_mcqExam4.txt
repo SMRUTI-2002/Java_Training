@@ -1,0 +1,695 @@
+What would be output for below code
+
+class C1 {
+    private void test() {
+        System.out.println("Welcome...");
+    }
+}
+
+class C2 extends C1 {
+    public void test() {
+        System.out.println("Bye");
+    }
+}
+
+public class P28 {
+    public static void main(String[] args) {
+        C2 obj = new C2();
+        obj.test();
+    }
+}
+(1 Point)
+
+A) Compile Time Error
+
+B) Runtime Error
+ChatGPT
+The code you provided will result in a compile-time error. In Java, when you extend a class and override a method, the method in the subclass must have the same name, return type, and parameter types as the method in the superclass that you are trying to override. In this case, the test() method in class C2 has a different method signature (no parameter) compared to the test() method in class C1 (private method). This will lead to a compile-time error.
+
+So, the correct answer is:
+
+A) Compile Time Error
+
+
+
+
+User
+What is the syntax to access default method in interface
+(1 Point)
+
+
+A) interfaceName.method()
+
+B) method.interface()
+
+C) interfaceName.super.method()
+
+D) interfaceName.super.class.method()
+ChatGPT
+The correct syntax to access a default method in an interface is:
+
+A) interfaceName.method()
+
+
+
+
+User
+Which statement is true about interfaces
+(1 Point)
+
+i) interface methods are public and abstract by default
+
+ii) interface variables are static and final by default
+
+iii) interface supports default methods
+
+iv) All the Above
+ChatGPT
+The statement that is true about interfaces is:
+
+iv) All the Above
+
+Explanation:
+i) Interface methods are public and abstract by default.
+ii) Interface variables are static and final by default.
+iii) Interfaces support default methods in Java
+
+
+
+
+User
+public class Dummy {
+    enum WeekDays {
+    Sunday,
+    Monday,
+    Tuesday,
+    Wednesday,
+    Thursday,
+    Friday,
+    Saturday
+    }
+    private void WeekDays() {
+        System.out.println("Hi");
+      }
+    public static void main(String[] args) {
+      WeekDays w = WeekDays.Friday;
+            new Dummy().WeekDays();
+    }
+}
+(1 Point)
+
+A) Compile Time Error as Enum don't have methods
+
+B) Runtime Error
+
+C) Hi
+
+D) No output
+ChatGPT
+The code you provided will result in:
+
+D) No output
+
+This is because the code creates an instance of the Dummy class and calls its private WeekDays() method, but since the method is private, it cannot be accessed from outside the class. The enum WeekDays itself doesn't have any methods, but the private method in the Dummy class is unrelated to the enum.
+
+
+
+
+User
+Which statement(s) are true w.r.t. has-a relationship
+(1 Point)
+
+A) Has a relation known as Composition
+
+B) Instance of one class refers to instance of another class
+
+C) The relationship helps to minimize the bugs
+
+D) All the above
+ChatGPT
+The following statement(s) are true with respect to the has-a relationship:
+
+A) Has a relation is known as Composition.
+B) An instance of one class refers to an instance of another class.
+
+So, the correct options are:
+
+
+
+
+User
+public class Dummy {
+    public static void main(String[] args) {
+        int i = 1; 
+        int j = 0; 
+        j = ++i + 1;  
+        System.out.println(j + " " +i);
+
+    } 
+}
+(1 Point)
+
+A) 2 2
+
+B) 1 2
+
+C) 3 2
+
+D) 1 1
+ChatGPT
+The code you provided will result in:
+
+C) 3 2
+
+Here's the explanation:
+
+i is initially assigned the value 1.
+j is initially assigned the value 0.
+++i increments i to 2 and returns the incremented value, which is 2. So, j becomes 2 + 1, which is 3.
+Finally, it prints j and i, which are 3 and 2, respectively.
+
+
+
+
+5.Identify the syntax to implement inheritance
+
+A) class First {
+}
+class Second implements First {
+}
+
+B) class First {
+}
+class Second : First {
+}
+
+C) class First {
+}
+
+class Second extends First {
+}
+D) 
+class First {
+}
+class Second extend First {
+}
+(1 Point)
+
+Only A
+
+Only B
+
+Only C
+ChatGPT
+The correct answer is:
+
+C) class First {
+}
+
+class Second extends First {
+}
+
+This syntax represents inheritance in Java.
+
+
+
+
+User
+Which statement(s) are true
+
+(i) interface methods are public and abstract by default
+(ii) interface contains default methods
+(iii) interface variables are final by default
+(iv) interface can be added to class using implements keyword
+(1 Point)
+
+A) statement ii
+
+B) statement ii,III,i
+
+C) statement i, iii, iv
+ChatGPT
+The correct statement is:
+
+A) statement ii
+
+Explanation:
+(i) Interface methods are public and abstract by default.
+(ii) Interface can contain default methods.
+(iii) Interface variables are not final by default.
+(iv) To add an interface to a class, you use the "implements" keyword.
+
+
+
+
+User
+would be output for below code
+
+class Test {
+      public static void main(String[] args) {
+          int x=12;
+          System.out.println(x++ + x++ + ++x);
+      }
+}
+(1 Point)
+
+A) 40
+
+B) 39
+ChatGPT
+The output for the given code will be:
+
+B) 39
+
+Explanation:
+
+x++ returns the current value of x (12) and then increments x by 1, so it becomes 13.
+x++ again returns the current value of x (13) and then increments x by 1, so it becomes 14.
+++x increments x by 1 and then returns the updated value, so it becomes 15, and the expression becomes 13 + 14 + 15, which equals 42.
+
+
+
+User
+What would be output for below code
+
+class Main {
+      public static void main(String[] args) {
+         String str="Hello";
+         System.out.println(str.concat(" World"));
+      }
+}
+(1 Point)
+
+A) Hello
+
+B) Hello World
+ChatGPT
+The output for the given code will be:
+
+B) Hello World
+
+Explanation: The concat method in Java is used to concatenate two strings. In this code, it concatenates "Hello" with " World" to form "Hello World," and then it's printed to the console.
+
+
+
+
+User
+5.Identify the syntax to implement inheritance
+
+A) class First {
+}
+class Second implements First {
+}
+
+B) class First {
+}
+class Second : First {
+}
+
+C) class First {
+}
+
+class Second extends First {
+}
+D) 
+class First {
+}
+class Second extend First {
+}
+(1 Point)
+
+Only A
+
+Only B
+
+Only C
+
+Only D
+6.Which statement(s) are true
+
+(i) interface methods are public and abstract by default
+(ii) interface contains default methods
+(iii) interface variables are final by default
+(iv) interface can be added to class using implements keyword
+(1 Point)
+
+A) statement ii
+
+B) statement ii,III,i
+
+C) statement i, iii, iv
+
+D) All the Above
+7.What would be output for below code
+
+class Test {
+      public static void main(String[] args) {
+          int x=12;
+          System.out.println(x++ + x++ + ++x);
+      }
+}
+(1 Point)
+
+A) 40
+
+B) 39
+
+C) 38
+
+D) 41
+8.What would be output for below code
+
+class Main {
+      public static void main(String[] args) {
+         String str="Hello";
+         System.out.println(str.concat(" World"));
+      }
+}
+(1 Point)
+
+A) Hello
+
+B) Hello World
+
+C) Compile Time Error
+
+D) Runtime Error
+9.What would be output for below code
+
+class Example1 {
+      public void show(double x) {
+         System.out.println("Double  " +x);
+      }
+      public void show(String x) {
+          System.out.println("String " +x);
+      }
+      public void show(Object x) {
+         System.out.println("Object  " +x);
+      }
+      public static void main(String[] args) {
+         new Example1().show(12);
+      }
+}
+(1 Point)
+
+A) Double 12
+
+B) String 12
+
+C) Object 
+ChatGPT
+Here are the answers to your questions:
+
+Only C
+B) statement ii
+B) 39
+B) Hello World
+A) Double 12
+If you have any more questions or need further clarification, feel free to ask!
+
+
+
+
+User
+would be output for below code
+
+class Hello {
+      public void show() {
+         if (null==null) {
+            System.out.println("Hi");
+         } else {
+            System.out.println("Bye");
+         }
+      }
+      public static void main(String[] args) {
+            new Hello().show();
+      }
+}
+(1 Point)
+
+A) Compile Time Error
+
+B) Runtime Error
+
+C) Hi
+
+D) Bye
+ChatGPT
+The output for the given code will be:
+
+C) Hi
+
+Explanation: In the show method, the condition null == null evaluates to true, so "Hi" is printed to the console.
+
+
+
+
+User
+class First {
+      void show() {
+        System.out.println("Class Second...");
+      }
+}
+
+class Second extends First {
+      void show() {
+         System.out.println("Class First...");
+      }
+      public static void main(String[] args) {
+            new Second().show();
+      }
+}
+
+(1 Point)
+ChatGPT
+The output for the given code will be:
+
+"Class First..."
+
+Explanation: In this code, you have two classes, First and Second. Second is a subclass of First. Both classes have a show method. When you create an instance of Second and call its show method, it overrides the show method in the parent class First. So, "Class First..." will be printed to the console.
+
+
+
+
+User
+Which of the following method does not belongs to Object class
+(1 Point)
+
+A) toString()
+
+B) equals()
+
+C) run()
+ChatGPT
+The method that does not belong to the Object class is:
+
+C) run()
+
+Explanation: toString() and equals() are methods defined in the Object class, but run() is not a method of the Object class. run() is typically associated with threads and is part of the Runnable interface, not the Object class.
+
+
+
+
+User
+hat would be output for below code
+
+class Main
+{
+      public static void main() {
+            System.out.println("Hello");
+      }
+      public static void main(int x) {
+          System.out.println("Infinite");
+      }
+      public static void main(String[] args) {
+          System.out.println("Test Main");
+      }
+} 
+
+(1 Point)
+
+A) Hello
+
+B) Test Main
+
+C) Compile Time Error
+ChatGPT
+The output for the given code will be:
+
+B) Test Main
+
+Explanation: When you have multiple main methods in a class, the one with the standard signature public static void main(String[] args) is the one that gets executed when you run the program. In this case, it prints "Test Main" to the console. The other main methods with different signatures will not be considered as entry points for the program.
+
+
+
+
+User
+Identify which line throws error
+
+class Hello {
+      private String s1="Hello";
+      public String s2="Bye";
+      protected String s3="Infinite";
+}
+
+class Main {
+      public static void main(String[] args) 
+          Hello hello = new Hello(); // line 1
+          hello.s1; // line 2
+          hello.s2; // line 3
+          hello.s3; // line 4
+      }
+}
+(1 Point)
+
+A) line 1
+
+B) line 2
+ChatGPT
+The error in the code is on:
+
+B) line 2
+
+Attempting to access the private field s1 from outside the Hello class will result in a compilation error since private fields are not accessible from outside their class.
+
+
+
+
+User
+Which method of Object class will returns int value
+(1 Point)
+
+A) equals()
+
+B) toString()
+
+C) hashCode()
+
+D) None
+ChatGPT
+C) hashCode()
+
+The hashCode() method in the Object class returns an integer value representing the hash code of the object.
+
+
+
+
+User
+hich is/are true about Abstract classes
+(i) Abstract class contains abstract/non-abstract methods
+(ii) Abstract class contains constructor
+(iii) We can return an object of Abstract Class
+(iv) We cannot create direct objects to abstract class
+(1 Point)
+
+A) i
+
+B) ii,iv
+
+c)i,ii,iv
+
+D) All i, ii, iii, iv
+ChatGPT
+The correct statement is:
+
+C) i, ii, iv
+
+Explanation:
+(i) Abstract classes can contain both abstract and non-abstract methods.
+(ii) Abstract classes can have constructors.
+(iv) Abstract classes cannot be instantiated directly; you cannot create objects of abstract classes.
+
+
+
+
+User
+ would be output for below code
+
+class Cricket {
+      static int score;
+      public void increment(int x) {
+         score+=x;
+      }
+      public static void main(String[] args) {
+         new Cricket().increment(12);
+         new Cricket().increment(7);
+         new Cricket().increment(10);
+         System.out.println(score);
+       }
+}
+(1 Point)
+
+A) 12
+
+B) 10
+ChatGPT
+The output for the given code will be:
+
+B) 10
+
+Explanation: The score variable is declared as static, which means it's shared among all instances of the Cricket class. When you call increment multiple times with different values, it accumulates the values, so the final value of score will be 12 (12 + 7 + 10), and it will be printed as 10 due to the static nature of the variable.
+
+
+
+
+User
+Which statement(s) are true w.r.t. IS-A relation
+
+i) Is-A relationship uses extends keyword
+ii) IS-A relationship is additionally used for code reusability in Java and to avoid code redundancy.
+iii) IS-A relationship is tightly coupled, which means changing one entity will affect another entity.
+iv) IS-A relationship is unidirectional
+(1 Point)
+
+ChatGPT
+The correct statements are:
+
+i) Is-A relationship uses extends keyword
+
+ii) IS-A relationship is additionally used for code reusability in Java and to avoid code redundancy.
+
+Explanation:
+
+i) In Java, the "IS-A" relationship is represented using the "extends" keyword for classes and interfaces.
+
+ii) The "IS-A" relationship is indeed used for code reusability and to avoid code redundancy by creating a hierarchy of classes and interfaces that share common characteristics or behavior.
+
+iii) IS-A relationships are not necessarily tightly coupled; they can represent different levels of inheritance, including tightly coupled relationships (e.g., parent-child classes) and loosely coupled relationships (e.g., implementing an interface).
+
+iv) IS-A relationships can be unidirectional, but they can also be bidirectional when two classes extend each other or implement each other's interfaces.
+
+
+
+
+User
+What is the output for below code
+class Test {
+      static int score;
+      public void increment() {
+         score++;
+         System.out.println(score);
+      }
+      public static void main(String[] args) {
+            Test obj1 = new Test(); 
+            Test obj2 = new Test();
+            Test obj3 = new Test();
+            obj1.increment();       
+            obj2.increment();
+            obj3.increment();
+      }
+}
+(1 Point)
+ChatGPT
+The output for the given code will be:
+
+1
+2
+3
+
+Explanation: The increment method increments the static variable score each time it is called and then prints the current value of score. When you create three instances of the Test class and call increment on each of them, the score is incremented from 0 to 1, 2, and 3, respectively, and these values are printed.
+
+
+
+
+ 
+

@@ -1,0 +1,529 @@
+What would be output for below code
+
+class Cricket {
+      static int score;
+      public void increment(int x) {
+         score+=x;
+      }
+      public static void main(String[] args) {
+         new Cricket().increment(12);
+         new Cricket().increment(7);
+         new Cricket().increment(10);
+         System.out.println(score);
+       }
+}
+(1 Point)
+
+
+A) 12
+
+B) 10
+
+C) 7
+
+D) 29
+Ans:-
+The correct output for the given code would be:
+
+D) 29
+
+
+
+
+User
+Write the syntax to add interface to derived class
+(1 Point)
+
+
+A) class Derived extends Base, interface_name
+
+B) class Derived implemnets base, interface_name
+
+C) class Derived extends Base implements interface_name
+
+D) class Derived implements Base extends interface_name
+Ans:-
+The correct syntax to add an interface to a derived class in Java is:
+
+C) class Derived extends Base implements interface_name
+
+
+What are Servlets?
+A - Java Servlets are programs that run on a Web or Application server.
+B - Java Servlets act as a middle layer between a request coming from a Web browser or other HTTP client and databases or applications on the HTTP server.
+(1 Point)
+
+Only A 
+
+Only B
+
+Both A & B
+
+None of the above
+Ans:-
+Both A & B
+
+
+
+
+User
+Which are the session tracking techniques?
+i. URL rewriting
+ ii. Using session object
+ iii.Using response object
+ iv. Using hidden fields
+ v. Using cookies
+ vi. Using servlet object
+ 
+(1 Point)
+
+a) i, ii, iii, vi
+
+b) i, ii, iv, v
+
+c) i, vi, iii, v
+
+d) i, ii, iii, v
+Ans:-
+The correct answer is:
+
+d) i, ii, iii, v
+
+
+
+
+User
+Which of the following method sets application/context init parameter?
+(1 Point)
+
+A. setParameter(String name,String value)
+
+B. Its not possible in the method
+
+C. setParameter(String name,Object value)
+
+D. setParameter(Object name,Object value
+Ans:-
+The correct answer is:
+
+A. setParameter(String name, String value)
+
+
+
+
+User
+Which of the following code can be used to send an error response to the client using the specified status code and error message?
+(1 Point)
+
+A - request.sendError(statusCode,message)
+
+B - response.sendError(statusCode,message)
+
+C - header.sendError(statusCode,message)
+
+D - None of the above.
+Ans:-
+The correct answer is:
+
+B - response.sendError(statusCode, message)
+
+
+
+
+User
+Which methods are used to bind the objects on HttpSession instance and get the objects?
+(1 Point)
+
+A. setAttribute
+
+B. getAttribute
+
+C. Both A & B
+
+D. None of the above
+Ans:-
+The correct answer is:
+
+C. Both A & B
+
+You can use setAttribute to bind objects to an HttpSession instance and getAttribute to retrieve them.
+
+
+
+
+User
+Which of the following is true about servlets?
+(1 Point)
+
+A. Servlets execute within the address space of web server
+
+B. Servlets are platform-independent because they are written in java
+
+C. Servlets can use the full functionality of the Java class libraries
+
+D. Servlets execute within the address space of web server, platform independent and uses the functionality of java class libraries
+Ans:-
+The correct answer is:
+
+D. Servlets execute within the address space of the web server, are platform-independent because they are written in Java, and can use the full functionality of the Java class libraries.
+
+
+
+
+User
+Which of the following request attributes that an error-handling servlet can access to analyse the nature of error/exception?
+(1 Point)
+
+A - javax.servlet.error.status_code
+
+B - javax.servlet.error.exception_type
+
+C - javax.servlet.error.message
+
+D - All of the above.
+Ans:-
+The correct answer is:
+
+D - All of the above.
+
+An error-handling servlet can access javax.servlet.error.status_code, javax.servlet.error.exception_type, and javax.servlet.error.message request attributes to analyze the nature of an error or exception.
+
+
+
+
+User
+Which method is used to specify before any lines that uses the PintWriter?
+(1 Point)
+
+A. setPageType()
+
+B. setContextType()
+
+C. setContentType()
+
+D. setResponseType(
+Ans:-
+The correct method to specify the content type before any lines that use the PrintWriter is:
+
+C. setContentType()
+
+
+
+
+User
+What are the functions of Servlet container?
+(1 Point)
+
+A. Lifecycle management
+
+B. Communication support
+
+C. Multithreading support
+
+D. All of the above
+Ans:-
+The correct answer is:
+
+D. All of the above
+
+Servlet containers (also known as web containers or servlet engines) perform various functions, including lifecycle management of servlets, communication support, and multithreading support.
+
+
+
+
+User
+Which of the following code returns the port number on which this request was received?
+(1 Point)
+
+A - response.getServerPort()
+
+B - request.getServerPort()
+
+C - Header.getServerPort()
+
+D - None of the above
+Ans:-
+The correct answer is:
+
+B - request.getServerPort()
+
+
+
+
+User
+Which of the following code is used to get an attribute in a HTTP Session object in servlets?
+(1 Point)
+
+A - session.getAttribute(name)
+
+B - session.alterAttribute(name)
+
+C - session.updateAttribute(name)
+
+D - None of the above.
+Ans:-
+The correct answer is:
+
+A - session.getAttribute(name)
+
+You use session.getAttribute(name) to get an attribute from an HTTP Session object in servlets.
+
+
+
+
+User
+When destroy() method of servlet gets called?
+A - The destroy() method is called only once at the end of the life cycle of a servlet.
+B - The destroy() method is called after the servlet has executed service method.
+(1 Point)
+
+Only A
+
+Only B
+
+Both A and B
+
+None of the above
+Ans:-
+The correct answer is:
+
+A - The destroy() method is called only once at the end of the life cycle of a servlet.
+
+
+
+
+User
+The life cycle of a servlet is managed by
+(1 Point)
+
+A. servlet context
+
+B. servlet container
+
+C. the supporting protocol (such as http or https)
+
+D. All of the above
+Ans:-
+The correct answer is:
+
+B. servlet container
+
+The life cycle of a servlet is managed by the servlet container.
+
+Which of the following code can be used to set the locale of the response?
+(1 Point)
+
+A - request.setLocale(locale)
+
+B - response.setLocale(locale)
+
+C - header.setLocale(locale)
+
+D - None of the above.
+Ans:-
+To set the locale of the response in a web application, you would typically use the response.setLocale(locale) method. So the correct option is:
+
+B - response.setLocale(locale)
+
+
+
+
+User
+Which method take a string not a URL?
+
+A. sendRedirect
+B. forward
+(1 Point)
+
+Only A
+
+Only B
+
+Both A & B
+
+None of the Above
+Ans:-
+A. sendRedirect
+
+The sendRedirect method in a Java web application takes a string representing a URL, not a URL object. So, the correct option is:
+
+Only A
+
+
+
+
+User
+Which method in session tracking is used in a bit of information that is sent by a web server to a browser and which can later be read back from that browser?          
+(1 Point)
+
+A. HttpSession
+
+B. URL rewriting
+
+C. Cookies
+
+D. Hidden form fields
+Ans:-
+C. Cookies
+
+Cookies are used in session tracking to send a bit of information from a web server to a browser, and this information can later be read back from that browser to maintain session state.
+
+
+
+
+User
+How constructor can be used for a servlet?
+ 
+(1 Point)
+
+a) Initialization
+
+b) Constructor function
+
+c) Initialization and Constructor function
+
+d) Setup() method
+Ans:-
+c) Initialization and Constructor function
+
+Constructors in Java servlets can be used for initialization purposes, and they are automatically called by the servlet container when the servlet is first loaded. This allows you to perform any necessary setup or initialization tasks when the servlet is instantiated.
+
+
+
+
+User
+Which of the following is true about servlets?
+(1 Point)
+
+A. Servlets execute within the address space of web server
+
+B. Servlets are platform-independent because they are written in java
+
+C. Servlets can use the full functionality of the Java class libraries
+
+D. Servlets execute within the address space of web server, platform independent and uses the functionality of java class libraries
+Ans:-
+D. Servlets execute within the address space of the web server, are platform-independent because they are written in Java, and can use the full functionality of the Java class libraries.
+
+All three statements (A, B, and C) are true about servlets.
+
+When doGet() method of servlet gets called?        
+A. A GET request results from a normal request for a URL
+B. The service() method checks the HTTP request type as GET and calls doGet() method
+(1 Point)
+
+Only A
+
+Only B
+
+Both A & B
+
+None of the above
+Ans:-
+The doGet() method of a servlet gets called when a GET request is made to the servlet. So, the correct answer is:
+
+B. The service() method checks the HTTP request type as GET and calls doGet() method
+
+When a client sends a GET request for a URL that is mapped to a servlet, the servlet container (e.g., Tomcat) invokes the service() method of the servlet, and within the service() method, it checks the HTTP request type. If the request is a GET request, it calls the doGet() method of the servlet to handle the GET request.
+
+So, option B is the correct answer.
+
+
+
+
+User
+Which object of HttpSession can be used to view and manipulate information about a session?
+(1 Point)
+
+
+A. session identifier
+
+B. creation time
+
+C. last accessed time
+
+D. All mentioned above
+Ans:-
+D. All mentioned above
+
+All of the mentioned objects (session identifier, creation time, and last accessed time) can be used to view and manipulate information about an HttpSession in a Java servlet. These attributes are provided by the HttpSession object to help manage and track user sessions in a web application.
+
+
+
+
+User
+Which object is created by the web container at time of deploying the project?
+
+A. ServletConfig  
+B. ServletContext 
+(1 Point)
+
+Only A
+
+Only B
+
+Both A & B
+
+None of the Above
+Ans:-
+B. ServletContext
+
+The ServletContext object is created by the web container at the time of deploying the project. It represents the web application's environment and is available to all servlets within that web application. The ServletConfig object, on the other hand, is created for each servlet when it is initialized, and it provides configuration information specific to that servlet.
+
+
+
+
+User
+Which of the following code is used to get names of the parameters in servlet?
+(1 Point)
+
+
+A - request.getParameterNames()
+
+B - response.getParameterNames()
+
+C - Header.getParameterNames()
+
+D - None of the above.
+Ans:-
+A - request.getParameterNames()
+
+The correct code to get the names of the parameters in a servlet is request.getParameterNames(). This method returns an Enumeration of String objects representing the names of the parameters sent in the request.
+
+
+
+
+User
+Which of the following code retrieves the name of the HTTP Method?
+(1 Point)
+
+A - Header.getMethod()
+
+B - response.getMethod()
+
+C - request.getMethod()
+
+D - None of the above.
+Ans:-
+C - request.getMethod()
+
+The correct code to retrieve the name of the HTTP method (such as GET, POST, etc.) in a servlet is request.getMethod(). This method returns a String representing the HTTP method used in the request.
+
+
+
+
+User
+Which of the following code is used to get country/region code in servlets?
+(1 Point)
+
+A - request.getCountry()
+
+B - Locale.getCountry()
+
+C - response.getCountry()
+
+D - None of the above.
+Ans:-
+B - Locale.getCountry()
+
+To get the country or region code in servlets or Java in general, you would typically use Locale.getCountry(). This method retrieves the country or region code for the locale associated with your application, which can be determined from the request or set explicitly in your code. Option B is the correct choice for this purpose.

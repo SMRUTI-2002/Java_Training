@@ -1,0 +1,639 @@
+What is dead thread in java ?
+(1 Point)
+
+A A thread that is waiting for I/O operation
+
+B A thread completed its run method
+
+C A thread is in sleep
+
+D None of these
+Ans:-
+B A thread completed its run method
+
+
+
+
+
+Which annotation used as if method to be executed only once in the entire test life cycle before test case
+(1 Point)
+
+a) @BeforeClass
+
+b) @AfterClass
+
+c) @Before
+
+d) @After
+Ans:-
+a) @BeforeClass
+
+
+
+
+What is multithreaded programming?
+(1 Point)
+
+a) It’s a process in which two different processes run simultaneously
+
+b) It’s a process in which two or more parts of same process run simultaneously
+
+c) It’s a process in which many different process are able to access same information
+
+d) It’s a process in which a single process can access information
+Ans:-
+b) It’s a process in which two or more parts of the same process run simultaneously.
+
+
+
+
+
+Thread can be create by
+(1 Point)
+
+A) Extending Thread Class
+
+B) Implements Runnable
+
+C) Both A and B
+
+D) None Of 
+Ans:-
+C) Both A and B
+
+
+
+
+
+Which of the below class contains synchronized methods
+(1 Point)
+
+A) ArrayList
+
+B) HashMap
+
+C) HashTable
+
+D) LinkedList
+Ans:-
+C) HashTable
+
+
+
+
+
+Which methods cannot be tested by the JUnit test class?
+(1 Point)
+
+a) protected methods
+
+b) methods with void return type
+
+c) private methods
+
+d) public methods
+Ans:-
+c) private methods
+
+
+
+
+You can create thread safe methods by using
+(1 Point)
+
+A) lock
+
+B) synchronized
+
+C) mutex
+
+D) none
+Ans:-
+B) synchronized
+
+
+
+
+
+Thread priority in Java is?
+(1 Point)
+
+A Integer
+
+B Float
+
+C double
+
+D long
+Ans:-
+A) Integer
+
+
+
+
+
+Which Package allows you to perform junit 
+(1 Point)
+
+a) org.jmock.test
+
+b) org.junit.test
+
+c) org.test
+Ans:-
+b) org.junit.test
+
+
+
+
+
+Select the valid thread state transition?
+(1 Point)
+
+A ready to running
+
+B ready to waiting
+
+C waiting to running
+
+D running to 
+Ans:-
+C) waiting to running
+
+
+
+
+
+Which method contains the actual code to be executed once thread starts
+(1 Point)
+
+a) run()
+
+b) start()
+
+c) sleep()
+
+d) abort()
+Ans:-
+a) run()
+
+
+
+
+
+What is the output for below code
+
+public void before() {
+    System.out.println("before");
+   }
+   @After 
+   public void after() {
+    System.out.println("After");
+  }
+   @Test
+   public void test1() {
+    System.out.println("Test 1");
+   }
+
+   @Test
+   public void test2() {
+    System.out.println("Test2");
+   }
+}
+(1 Point)
+
+A) Before After Test1 Test 2
+
+B) Test1 After Test2
+
+C) Test1 After Test2 After
+
+D) None
+Ans:-
+The correct output for the given code is:
+
+B) Test1 After Test2
+
+
+
+
+
+Which annotation used for everytime, at the end of test case
+(1 Point)
+
+a) @BeforeClass
+
+b) @AfterClass
+
+c) @Before
+
+d) @After
+Ans:-
+d) @After
+
+
+
+
+
+Which method used to invoke the thread
+(1 Point)
+
+a) run()
+
+b) start()
+
+c) sleep()
+
+d) abort()
+Ans:-
+b) start()
+
+
+
+
+
+What would be output for this program
+        int[] a=new int[]{1,2};
+        int[] b =new int[]{1,2};
+        assertArrayEquals("hello",a,b);
+(1 Point)
+
+A) Test Case Passes successfully
+
+B) Compile Time Error
+
+C) Runtime Error
+
+D) None
+Ans:-
+B) Compile Time Error
+
+
+
+
+
+@BeforeClass
+   public static void beforeClass() {
+     System.out.println("BeforeClass...");
+   }
+   @AfterClass 
+   public static void afterClass() {
+     System.out.println("AfterClass...");
+   }
+   @Before
+   public void before() {
+    System.out.println("Before...");
+   }
+   @Test
+   public void testSayHello() {
+     assertEquals("Hello","Hello");
+   }
+   @After 
+   public void after() {
+    System.out.println("After...");
+   }
+(1 Point)
+
+A) BeforeClass...Before...After...AfterClass...BeforeClass...AfterClass...Before...After...
+
+C) BeforeClass...After...
+
+D) BeforeClass...After...
+Ans:-
+The output for the given code will be:
+
+A) BeforeClass...Before...After...AfterClass...BeforeClass...AfterClass...Before...After...
+
+
+
+
+
+public class DemoTest {
+
+    static Demo obj;
+
+    @BeforeClass 
+    public static void setUp() {
+        obj = new Demo();
+        System.out.println("Global Object Created...");
+    }
+
+    @AfterClass 
+    public static void cleanUp() {
+        obj = null;
+        System.out.println("Object Deallocated...");
+    }
+
+    @Before 
+    public void showInfo() {
+        System.out.println("Test Case Started...");}
+
+    @After 
+    public void clearInfo() {
+        System.out.println("Test Case Ended...");
+    }
+    
+}
+(1 Point)
+
+A) No Output as no valid @Test case
+
+B) Runtime Error
+
+C) Compile Time Error
+
+D) Test Case Ended...
+Ans:-
+A) No Output as no valid @Test case
+
+
+
+
+
+You can create thread safe methods by using
+(1 Point)
+
+A) lock
+
+B) synchronized
+
+C) mutex
+
+D) none
+Ans:-
+B) synchronized
+
+
+
+
+
+. @Test 
+   public void testMe() {
+       assertEquals("August Batch","Hi","Hi");
+   }
+
+    @Test 
+   public void testFail() {
+       assertEquals("November Batch","Hi","Hello");
+   }
+(1 Point)
+
+A) Test Case pass
+
+B) Test Case Fail and Error Message as "August Batch"
+
+C) Runtime Error
+
+D) Compile Time Error
+Ans:-
+B) Test Case Fail and Error Message as "August Batch"
+
+
+
+
+
+Which annotation used as if method to be executed only once in the entire test life cycle before test case
+(1 Point)
+
+a) @BeforeClass
+
+b) @AfterClass
+
+c) @Before
+
+d) @After
+Ans:-
+a) @BeforeClass
+
+
+
+
+Which methods cannot be tested by the JUnit test class?
+(1 Point)
+
+a) protected methods
+
+b) methods with void return type
+
+c) private methods
+
+d) public methods
+Ans:-
+c) private methods
+
+
+
+
+Userpublic class JunitTest {
+ 
+   @BeforeClass
+   public static void beforeClass() {
+     System.out.println("BeforeClass...");
+   }
+   @AfterClass 
+   public static void afterClass() {
+     System.out.println("AfterClass...");
+   }
+
+   public void before() {
+    System.out.println("Before...");
+   }
+   @After 
+   public void after() {
+    System.out.println("After...");
+   }
+}
+(1 Point)
+
+A) No Output as no valid Test case
+
+B) Compile Time Error
+
+C) Runtime Error
+
+D) Before...After..
+Ans:-
+A) No Output as no valid Test case
+
+
+
+
+
+public class Junit4Test {
+  @Test 
+  public void test() {
+    Assert.assertTrue(false);
+  }
+  @Test
+  public void test2() {
+    assert false;
+  }
+}
+(1 Point)
+
+A) False true
+
+B) False False
+
+C) Compile Time Error
+
+D) Runtime Error
+Ans:-
+B) False False
+
+
+
+
+
+public class DummyTest {
+   @BeforeClass
+   public static void beforeClass() {
+     System.out.println("BeforeClass...");
+   }
+   @AfterClass 
+   public static void afterClass() {
+     System.out.println("AfterClass...");
+   }
+
+   @Test 
+   public void testMe() {
+       assertEquals("Hi","Hi");
+   }
+   public void before() {
+    System.out.println("Before...");
+   }
+   @After 
+   public void after() {
+    System.out.println("After...");
+   }
+}
+(1 Point)
+Ans:-
+The provided code has an issue because the testMe method is missing an assertion, and there's no assertEquals statement that compares two values. Therefore, it will not compile as a valid JUnit test case.
+
+So, the correct answer is:
+
+C) Compile Time Error
+
+
+
+
+
+What would be output for below code
+Public class Test implements Runnable
+{
+      Public static void main(String[] args) {
+            Test t = new Test();
+            t.run();    
+            t.start();
+}
+      Public void run() {
+            System.out.println(“run-test”);
+      } 
+}
+(1 Point)
+
+a) run-test run-test
+
+b) run-test
+
+c) Compile Time Error
+
+d) Runtime Error
+Ans:-
+The correct answer is:
+
+b) run-test
+
+
+
+
+
+Which annotation used for everytime, at the end of test case
+(1 Point)
+
+a) @BeforeClass
+
+b) @AfterClass
+
+c) @Before
+
+d) @After
+Ans:-
+d) @After
+
+
+
+
+
+public class DemoTest {
+
+    static Demo obj;
+
+    public static void setUp() {
+        obj = new Demo();
+        System.out.println("Global Object Created...");
+    }
+
+    @AfterClass 
+    public static void cleanUp() {
+        obj = null;
+        System.out.println("Object Deallocated...");
+    }
+
+    @Before 
+    public void showInfo() {
+        System.out.println("Test Case Started...");
+    }
+
+    public void clearInfo() {System.out.println("Test Case Ended...");
+    }
+    
+    @Test 
+    public void testSayHello() {
+        // Demo obj = new Demo();
+        assertEquals("Welcome to Junit...", obj.sayHello());
+    }
+
+    @Test 
+    public void testSum() {
+        // Demo obj = new Demo();
+        assertEquals(5, obj.sum(2,3));
+    }
+
+    @Test 
+    public void testMax3() {
+        // Demo obj = new Demo();
+        assertEquals(5, obj.max3(2,3,5));
+    }
+}
+(1 Point)
+
+A) No Output as no valid @Test case
+
+B) Runtime ErrorCompile Time Error as Object is NULL
+
+D) Test Case Ended...
+Ans:-
+B) Runtime ErrorCompile Time Error as Object is NULL
+
+
+
+
+
+What is dead thread in java ?
+(1 Point)
+
+A A thread that is waiting for I/O operation
+
+B A thread completed its run method
+
+C A thread is in sleep
+
+D None of these
+Ans:-
+B) A thread completed its run method
+
+
+
+
