@@ -1,0 +1,126 @@
+@charset "ISO-8859-1";
+body {
+  	font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-image: url('background_image.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar {
+  background-color: #333;
+}
+
+
+button{
+	padding:10px;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+  cursor: pointer; /* Add a pointer cursor on hover */
+  transition: background-color 0.3s; /* Add a smooth transition effect */
+
+  /* You can add more styles based on your preferences */
+}
+
+/* Add a hover effect */
+.dropdown .dropbtn:hover {
+  background-color: #555;
+  color: red;
+}
+
+
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.icon {
+  display: flex;
+  position: relative;
+  float: right;
+  right: 50px;
+  color: white;
+  cursor: pointer;
+
+  /* Add more styles based on your preferences */
+  align-items: center; /* Align items vertically in the center */
+  transition: color 0.3s; /* Add a smooth transition effect for color changes */
+}
+
+/* Add a hover effect */
+.icon:hover {
+  color: red;
+}
+
+.container_left{
+	width:70%;
+	text-align: justify;
+}
+
+.icon2 {
+   display: flex;
+    position: relative;
+    float: right;
+    right: 50px;
+    color: white;
+    cursor: pointer;
+}
+
+.icon2 button {
+    background-color: #3498db; /* Button background color */
+    color: #ffffff; /* Button text color */
+    right: 50px; 
+    cursor: pointer; /* Add a pointer cursor on hover */
+}
+
+.icon2 button:hover {
+    background-color: #2980b9;
+}

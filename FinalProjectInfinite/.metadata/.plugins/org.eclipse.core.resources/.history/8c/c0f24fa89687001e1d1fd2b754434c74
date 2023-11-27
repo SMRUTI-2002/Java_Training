@@ -1,0 +1,60 @@
+<%@page contentType="text/html"%>
+<%@page pageEncoding="UTF-8"%>
+<%@taglib prefix="f" uri="http://java.sun.com/jsf/core"%>
+<%@taglib prefix="h" uri="http://java.sun.com/jsf/html"%>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>User Details</title>
+<style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 20px;
+        }
+
+        h1 {
+            color: #008080;
+        }
+
+        div {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
+        }
+
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+ </style>
+</head>
+<body>
+
+<h1>User Details</h1>
+
+    <p>Welcome to your user profile page!</p>
+
+   <div>
+        <strong>Username:</strong>Smruti<br>
+        <strong>Email:</strong> smruti123@gmail.com<br>
+        <strong>Role:</strong> Member<br>
+    </div>
+    
+    <div>
+    <h2>Additional Information</h2>
+    <strong>Full Name:</strong>Smruti Rath<br>
+    <strong>Address:</strong> 123 Main st, Bhubaneswar <br>
+    <strong>Phone Number:</strong> 9742578665 <br>
+</div>
+    
+    <p><a href="HomeMenu.jsp">Back to Home</a></p>
+</body>
+</html>

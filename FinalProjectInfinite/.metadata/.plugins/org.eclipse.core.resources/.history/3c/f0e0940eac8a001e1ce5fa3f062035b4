@@ -1,0 +1,106 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Contact Form</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+
+<style>
+   body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.contact-section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 50px 0;
+}
+
+.contact-info {
+    flex: 1;
+    padding: 20px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-right: 20px;
+}
+
+.contact-info div {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.contact-info i {
+    margin-right: 10px;
+    color: #17a2b8;
+}
+
+.contact-form {
+    flex: 1;
+    padding: 20px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.contact-form h2 {
+    color: #333;
+    margin-bottom: 30px;
+}
+
+.text-box,
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.send-btn {
+    background: #17a2b8;
+    color: #fff;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.send-btn:hover {
+    background: #096e7e;
+}
+</style>
+<body>
+ <div class="contact-section">
+    <div class = "contact-info">
+    <div><i class="fa-solid fa-location-dot"></i>Address,City,Country</div>
+    <div><i class="fa-solid fa-envelope"></i>contact@email.com</div>
+    <div><i class="fa-solid fa-phone"></i>+00 0000 000 000</div>
+    <div><i class="fa-solid fa-clock"></i>Mon - Fri 8.00 AM to 5.00 PM</div>
+    <h2>Contact Us</h2>
+    <div class="contact-form">
+      
+      <form class="contact" action=""method="post">
+         <input type="text" name="name" class="text-box" placeholder="your Name" required>
+         <input type="email" name="email" class="text-box" placeholder="your Email" required>   
+         <textarea name="message" rows="s" placeholder="Your Message" required></textarea>
+         <input type="submit" name="submit" class="send-btn" value="send">
+         </form>
+    </div>
+   </div>
+
+    
+
+</body>
+</html>

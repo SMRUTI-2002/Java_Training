@@ -1,0 +1,20 @@
+1.servlets runs on both webserver and application server.
+2. when destroy()method called?
+   :- end of the servlet lifecycle destroy() method called.
+3. how to get parameter names in servlet?
+   :- request parameter and names responese parameter names in servelt.
+4. how to get server port?
+   :- 
+5. how to get http session object values in servelet?
+   :- session.getAttributes
+6. how to set page type to html?
+   :- response.SetContent type
+7. which methods used to bind the object to session?
+   :- setSttributes and getAttributes
+8. Servlet,servletContext,genricservlet,httpservlet
+   which are interfaces above?
+  :-ServletContext,servlet
+9. which method shows the client what server is receiving?
+   :- doGet()
+10. how constructor invoked in servlet?
+    :- init method

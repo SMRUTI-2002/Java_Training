@@ -1,0 +1,18 @@
+*Recipient Home Page with Menu options and summary:-
+    Sign In
+    Login
+  Links - View Insurance Detail
+  Provider Search
+  Make Appointment
+  Appointment details
+  History of Hospital visit
+  Search and view claims(self)
+  Payment details
+ Address(varies from member) 
+    :-  This section displays the recipient's current address, which can vary from member to member. 
+*It's essential for maintaining accurate contact information.
+ contact number (varies from that partcular selected member)
+    :- This section shows the contact number associated with the selected member, ensuring the ability to reach out when necessary.
+
+*This home page serves as a central hub for recipients to manage their healthcare-related activities,
+	including insurance details, provider searches, appointments, claims, and payment-related information

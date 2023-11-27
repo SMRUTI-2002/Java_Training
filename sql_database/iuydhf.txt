@@ -1,0 +1,42 @@
+ <%
+ Customer customer;
+ if (request.getParameter("customerId") != null){
+    int customerId = Integer.parseInt(request.getParameter("customerId"));
+    session.setAttribute("customerId", Integer.parseInt(request.getParameter("customerId")));
+ }
+ 	int id = (Integer)session.getAttribute("customerId");
+    CustomerDAO dao = new CustomerDAOImpl();
+    customer = dao.getCustomerById(id);
+    %>
+    <form method="post" action="UpdateCustomerAction.jsp">
+        <center>
+            Customer ID: <input type="number" name="customerId" readonly="readonly" value=<%=customer.getCustomerId()%>> <br /><br />
+            Name: <input type="text" name="name" value=<%=customer.getName()%>> <br /><br />
+            Check-In Time: <input type="text" name="checkInTime" value=<%=customer.getCheckInTime()%>> <br /><br />
+            Check-Out Time: <input type="text" name="checkOutTime" value=<%=customer.getCheckOutTime()%>> <br /><br />
+            Room Number: <input type="text" name="roomNumber" value=<%=customer.getRoomNumber()%>> <br /><br />
+            <input type="submit" value="Update Customer" />
+        </center>
+    </form>
+    <%
+    SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
+    Date checkInTime = sdf.parse(request.getParameter("checkInTime"));
+    java.sql.Date cinDate = new java.sql.Date(checkInTime.getTime());
+    Date checkOutTime = sdf.parse(request.getParameter("checkOutTime"));
+    java.sql.Date coutDate = new java.sql.Date(checkOutTime.getTime());
+    if (request.getParameter("customerId") != null && request.getParameter("name") != null
+            && request.getParameter("checkInTime") != null && request.getParameter("checkOutTime") != null
+            && request.getParameter("roomNumber") != null) {
+        Customer customerUpdate = new Customer();
+        customerUpdate.setCustomerId(Integer.parseInt(request.getParameter("customerId")));
+        customerUpdate.setName(request.getParameter("name"));
+        customerUpdate.setCheckInTime(cinDate);
+        customerUpdate.setCheckOutTime(coutDate);
+        customerUpdate.setRoomNumber(Integer.parseInt(request.getParameter("RoomNumber")));
+        CustomerDAO DAO = new CustomerDAOImpl();
+        dao.updateCustomer(customerUpdate);
+    %>
+    <jsp:forward page="CustomerShow.jsp" />
+    <%
+    }
+    %>

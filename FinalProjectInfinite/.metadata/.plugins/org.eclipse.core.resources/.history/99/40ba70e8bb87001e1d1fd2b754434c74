@@ -1,0 +1,68 @@
+<%@page contentType="text/html"%>
+<%@page pageEncoding="UTF-8"%>
+<%@taglib prefix="f" uri="http://java.sun.com/jsf/core"%>
+<%@taglib prefix="h" uri="http://java.sun.com/jsf/html"%>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<style>
+  body {
+  	font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-image: url('learnmore_image.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+  
+</style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="style2.css"/>
+</head>
+<body>
+<div class="navbar">
+  <a href="HomeMenu.jsp">Home</a>
+  <div class="dropdown">
+    <button class="dropbtn">Dropdown 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+     <a href="HomeMenu.jsp">Home</a>
+			 <a href="InsuranceDetails.jsp">View Insurance Details</a>
+			 <a href="searchProviders.jsp">Search for Providers</a>
+			 <a href="makeAppointment.jsp">Make Appointment</a>
+			 <a href="appointmentDetails.jsp">Appointment Details</a>
+			 <a href="hospitalHistory.jsp">Hospital History & Services</a>
+			 <a href="search and viewClaims.jsp">Search and View Claims</a> 
+			 <a href="paymentDetails.jsp">Payment Details</a> 
+    </div>
+  </div> 
+   <div class = "icon">
+    <div class ="icon2" style = "padding:10px">
+     <a href="paymentDetails.jsp"><i class="fa fa-user-circle" aria-hidden="true"></i></a> 
+	       
+	        
+	    </div> 
+    </div>
+</div>
+<div class="container_left">
+<p>we understand that your health is your most valuable asset. Welcome to a place where compassionate care meets cutting-edge medical expertise.<p>
+<p>Why Choose Us?</p>
+<h3>Comprehensive Care:</h3>From routine check-ups to specialized treatments, we offer a full spectrum of healthcare services to meet your unique needs.
+
+<h3>Expert Team: </h3>Our team of experienced and caring healthcare professionals is dedicated to your well-being. Your health is in capable hands.
+
+<h3>State-of-the-Art Facilities:</h3> We pride ourselves on providing the latest in medical technology and facilities to ensure accurate diagnoses and effective treatments.
+<h3>Patient-Centric Approach</h3>
+<p>Your health journey is unique, and we are here to guide you every step of the way. We believe in a patient-centric approach, tailoring our care to your individual needs. Your comfort and confidence in your treatment plan are our top priorities.</p>
+<h3>Stay Informed</h3>
+
+<p>Our blog and resource center are packed with valuable information to help you stay informed about your health. Knowledge empowers, and we're committed to providing you with the latest insights and updates.</p>
+
+
+<i>Thank you for choosing SAI HOSPITAL.Your well-being is our priority.</i>
+</div>
+
+</body>
+</html>

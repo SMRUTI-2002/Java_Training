@@ -1,0 +1,46 @@
+Oops:- Object oriented programming is a methodology to design a program using classes and objects.
+-> object is a real world enity.
+-> class is a template or blueprint which contains combination of data member and member functions.
+-> inheritance: The concept of deriving a new class from already exciting class known as inheritance.through inheritance we can reduce the size of the program.
+1)Can we overload main method?
+yes we can overload main method by changing the arguments.
+2) A Java Constructor returns a value but, what?
+No, constructor does not return any value.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JSF:- jsf is a java framework for building web Applications.
+It simplifies development by providing a component-centric approach to developing java web user interfaces.

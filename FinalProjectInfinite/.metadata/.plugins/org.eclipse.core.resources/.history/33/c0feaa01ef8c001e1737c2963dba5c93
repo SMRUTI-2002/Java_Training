@@ -1,0 +1,74 @@
+<%@page contentType="text/html"%>
+<%@page pageEncoding="UTF-8"%>
+<%@taglib prefix="f" uri="http://java.sun.com/jsf/core"%>
+<%@taglib prefix="h" uri="http://java.sun.com/jsf/html"%>
+<head>
+      <title>Recipient Home Page</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="style2.css"/>
+</head>
+<body>
+    <!-- Preloader -->
+    <div class="preloader">
+        <!-- Your preloader content here -->
+    </div>
+    <!-- End Preloader -->
+
+    <!-- Get Pro Button -->
+    <div class="pro-features">
+        <!-- Your pro features content here -->
+    </div>
+
+    <!-- Header Area -->
+    <header class="header">
+        <!-- Topbar -->
+        <!-- Your topbar content here -->
+        <!-- End Topbar -->
+        
+        <!-- Header Inner -->
+        <div class="header-inner">
+            <div class="container">
+                <!-- Your header content here -->
+            </div>
+        </div>
+        <!--/ End Header Inner -->
+    </header>
+    <!-- End Header Area -->
+
+    <!-- Slider Area -->
+    <section class="slider">
+        <!-- Your slider content here -->
+    </section>
+    <!--/ End Slider Area -->
+
+    <!-- Start Schedule Area -->
+    <section class="schedule">
+        <div class="container">
+            <!-- Your schedule content here -->
+        </div>
+    </section>
+    <!--/End Start schedule Area -->
+
+    <!-- Start Features -->
+    <section class="features section">
+        <div class="container">
+            <!-- Your features content here -->
+        </div>
+    </section>
+    <!--/ End Features -->
+
+    <!-- Start Fun-facts -->
+    <!-- Your fun-facts content here -->
+    <!--/ End Fun-facts -->
+
+    <!-- Footer Area -->
+    <footer class="footer">
+        <!-- Your footer content here -->
+    </footer>
+    <!--/ End Footer Area -->
+
+    <!-- Your JavaScript files -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/your-other-scripts.js"></script>
+</body>
+</html>

@@ -1,0 +1,69 @@
+<%@page contentType="text/html"%>
+<%@page pageEncoding="UTF-8"%>
+<%@taglib prefix="f" uri="http://java.sun.com/jsf/core"%>
+<%@taglib prefix="h" uri="http://java.sun.com/jsf/html"%>
+
+<html>
+<head>
+    <title>Recipient Home Page</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="style2.css"/>
+</head>
+
+<body>
+    <div class="navbar">
+    <div style="position: relative; top: 10px; z-index: 10;">
+        <a href="HomeMenuNew.jsp">Home</a>
+        
+        <a href="#">Search for Providers</a>
+        
+        <div class="dropdown">
+            <a href="#" class="dropbtn">Appointment <i class="fa fa-caret-down"></i></a>
+            <div class="dropdown-content">
+                <!-- Remove or provide appropriate content in the empty <a> tag -->
+                <a href="#">Make Appointment</a>
+                <a href="#">Previous Appointment</a>
+                <a href="#">Upcoming Appointment</a>
+                <!-- Other menu items -->
+            </div>
+        </div>
+
+        <div class="dropdown">
+            <a href="#" class="dropbtn">Finance <i class="fa fa-caret-down"></i></a>
+            <div class="dropdown-content">
+
+                <a href="InsuranceDetails.jsp">View Insurance Details</a>
+                <a href="#">Search and view Claims</a>
+            </div>
+        </div>
+              <a href="#">History</a>
+        <div class = "contact">
+              <a href="contact.jsp">Contact</a>
+        </div>
+    </div>
+
+        <div class="icon">
+            <div class="icon2" style="padding:10px">
+                <a href="userDetails.jsp"><i class="fa fa-user-circle" aria-hidden="true"></i></a>
+                <a href="HomeMenuNew.jsp">Logout</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <h1>WELCOME TO SAI HOSPITAL</h1>
+        <section>
+            <h2>Take the world's best quality Treatment</h2>
+        </section>
+
+        <section>
+            <!-- Consider removing the empty <h2> tag if there's no content -->
+            <div class="summary-container">
+                <p class="summary">This is a brief summary of what you can learn more about.</p>
+                <a href="hello.jsp" class="btn1">Learn More</a> <br><br>
+            </div>
+        </section>
+    </div>
+    
+</body>
+</html>

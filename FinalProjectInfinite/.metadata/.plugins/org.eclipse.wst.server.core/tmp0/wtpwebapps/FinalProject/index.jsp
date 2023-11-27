@@ -1,0 +1,78 @@
+<%@page contentType="text/html"%>
+<%@page pageEncoding="UTF-8"%>
+
+<%@taglib prefix="f" uri="http://java.sun.com/jsf/core"%>
+<%@taglib prefix="h" uri="http://java.sun.com/jsf/html"%>
+
+<f:view>
+	<html>
+<head>
+ <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hospital</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style2.css">
+</head>
+<body>
+	
+    <div class="navbar">
+        <a href="#home">Home</a>
+        <a href="#provider">Provider</a>
+        <a href="#history">History</a>
+
+        <div class="dropdown">
+            <button class="dropbtn">Insurane
+                <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-content">
+                <a href="#">View Insurance</a>
+                <a href="#">Subscription</a>
+            </div>
+        </div>
+        
+        <div class="dropdown">
+            <button class="dropbtn">Appointment
+                <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-content">
+                <a href="#">Previous Appointment</a>
+                <a href="#">Upcomint Appointment</a>
+            </div>
+        </div>
+        <a href="contact.jsp">Contact</a>
+        <i class="fa fa-user"></i>
+        <div class="log_button">
+
+            <button class="btn success">Log Out</button>
+        </div>
+    </div>
+    <div class="container">
+        <div class="arrow arrow-left"><i class="fas fa-chevron-circle-left"></i></div>
+        <img src="images/slider3.jpg" alt="">
+        <img src="images/slider.jpg" alt="">
+        <img src="images/slider2.jpg" alt="">
+        
+        <div class="arrow arrow-right"><i class="fas fa-chevron-circle-right"></i>
+        </div>
+        <div class="dots">
+          <div class="dot">
+            <i class="far fa-dot-circle"></i>
+          </div>
+          <div class="dot">
+            <i class="far fa-circle"></i>
+          </div>
+          <div class="dot">
+            <i class="far fa-circle"></i>
+          </div>
+        </div>
+      </div>
+    <script src="js/script.js"></script>
+
+</body>
+	</html>
+
+</f:view>

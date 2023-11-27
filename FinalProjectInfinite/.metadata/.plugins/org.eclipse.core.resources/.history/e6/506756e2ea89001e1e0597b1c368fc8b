@@ -1,0 +1,27 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Contact Form</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+
+ <div class="contact-section">
+    <div class = "contact-info">
+    <div><i class="fa-solid fa-location-dot"></i>Address,City,Country</div>
+    <div><i class="fa-solid fa-envelope"></i>contact@email.com</div>
+    <div><i class="fa-solid fa-phone"></i>+00 0000 000 000</div>
+    <div><i class="fa-solid fa-clock"></i>Mon - Fri 8.00 AM to 5.00 PM</div>
+    <div class="contact-form">
+      <h2>Contact Us</h2>
+      <form class="contact" action="index.html"method="post">
+      
+    </div>
+   </div>
+    
+
+</body>
+</html>
